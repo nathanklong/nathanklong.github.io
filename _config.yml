@@ -1,22 +1,22 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Richard Feynman"
-title: "Professor of Physics"
-institution: "California Institute of Technology"
-email: richard@university.edu
+name: "Nathan K Long"
+title: "Astrophotonics and Quantum Optics Researcher"
+institution: "University of Sydney"
+email: nathan.long@sydney.edu.au
 photo: headshot.jpg  # place your photo in images/
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
-  orcid: ""
+  google_scholar: "https://scholar.google.com/citations?user=P9dT5nUAAAAJ&hl=en"
+  github: ""
+  researchgate: "https://www.researchgate.net/profile/Nathan-Long-5"
+  orcid: "https://orcid.org/0000-0001-9969-082X"
   twitter: ""
-  linkedin: ""
+  linkedin: "https://au.linkedin.com/in/nathanklong91"
   cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
 # ============================================================
@@ -24,7 +24,7 @@ links:
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+description: "Dr Nathan K Long"
 baseurl: ""
 url: ""
 
