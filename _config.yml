@@ -40,10 +40,10 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  - name: software
+  #- name: software
   - name: team
-  - name: teaching
-  - name: blogs
+  #- name: teaching
+  #- name: blogs
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
@@ -81,7 +81,7 @@ scholar:
   style: citesty
   locale: en
   source: /assets/
-  bibliography: ref.bib
+  bibliography: nkl_bibliography.bib
   bibliography_template: bibtemplate
   sort_by: year, month
   order: descending
