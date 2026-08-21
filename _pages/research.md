@@ -18,7 +18,7 @@ permalink: /research/
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Superfluid helium">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/wiley_aqt.jpg" class="research-thumb" alt="quantum-satellite">
 <div class="research-body">
 <h4 class="research-title">Quantum Communication</h4>
 <p class="research-desc">Quantum Communication for satellite-Earth links.</p>
@@ -42,7 +42,7 @@ permalink: /research/
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/coordinate_system3.svg" class="research-thumb" alt="sse">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/coordinate_systems3.svg" class="research-thumb" alt="sse">
 <div class="research-body">
 <h4 class="research-title">Sea State Estimation</h4>
 <p class="research-desc">Using the boat-as-a-wavebuoy analogy.</p>
