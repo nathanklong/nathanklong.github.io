@@ -14,7 +14,7 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Machine Learning</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Swarm Intelligence</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Sea State Estimation</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Vehicle Guidance</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Autonomous Vehicle Guidance</a>
 </div>
 {% comment %}
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Artificial Intelligence</a>
@@ -30,7 +30,7 @@ Intersecting machine learning and astronomical instrumentation
 {% endcomment %}
 
 <div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/qubit_aurora-1.png" alt="Art" loading="lazy">
+<img src="{{ site.url }}{{ site.baseurl }}/qubit_wavefield.png" alt="Art" loading="lazy">
 <div class="banner-caption">Superposition</div>
 </div>
 
