@@ -55,6 +55,17 @@ permalink: /about/
 </div>
 {% endif %}
 
+{% if site.data.associations %}
+<div class="section-card">
+<h3>Associations</h3>
+<ul>
+{% for association in site.data.associations %}
+<li>{{ association.name }}</li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
+
 {% comment %}
 {% if site.data.people %}
 <div class="section-card">
