@@ -1,0 +1,20 @@
+---
+layout: post
+title: "UNSW Canberra 3 Minute Thesis Competition"
+date: 2020-11-15
+categories: "Talks"
+---
+
+Sea State Estimation (SSE) remains critical to maritime operations worldwide. Presently, data on sea states is primarily collected by moored wave buoys in a relatively limited number of locations. Recently, research into the use of Uninhabited Surface Vessels (USVs), acting as an on-site wave buoy, has emerged. By measuring the response of the USV to wave motions and implementing a wave buoy analogy model, directional wave properties can be estimated. This study investigates the benefits of utilising an intelligent swarm of USVs (greater than two), with each member acting as a wave buoy, to estimate an aggregated sea state in real-time. Swarm intelligence can be defined as an interaction between relatively simple agents leading to the emergence of complex behaviours. It is hypothesised that a USV swarm can collaborate to enhance sea state characterisation. The challenge of swarm guidance is addressed by introducing a shepherd which guides the swarm of USVs with the intent of achieving the desired objective estimation. This method of control mimics the way a sheepdog is able to herd sheep to a target destination. A heuristic is presented which describes how a series of influential force vectors can generate swarm behaviours with the aid of a shepherd, and be used to distribute a network for the purpose of estimating the properties of a complex sea environment. The ability to estimate wave properties, with a higher degree of confidence, in-situ in any geographic region would allow maritime vessels to enhance operability, improve safety, and extend service life.
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+<iframe src="https://www.youtube.com/embed/RTe6B0gZNPE?start=4"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        allowfullscreen loading="lazy"></iframe>
+</div>
+
+During my Masters by Research, I competed against my peer HDR student in the 3-minute thesis competition at UNSW. As it was 2020, social distancing forced us to record our submissions rather than give in-person presentations. I found it surprisingly more difficult... wanting to perfect every second of the three minutes meant that I re-recorded the 3MT at least 50 times. Ultimately, the 50th recording turned out well enough that I managed to get first place at the UNSW Canberra.
+
+
+## References
+- [UNSW Canberra 3 Minute Thesis](https://www.youtube.com/watch?v=RTe6B0gZNPE&t=4s)
