@@ -52,7 +52,7 @@ permalink: /research/
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/DT18_Closed_Maneuvers.svg" class="research-thumb" alt="regen_soaring">
 <div class="research-body">
-<h4 class="research-title">Vehicle Guidance</h4>
+<h4 class="research-title">Autonomous Vehicle Guidance</h4>
 <p class="research-desc">Regenerative dynamic soaring and uninhabited surface vessel dynamics.</p>
 </div>
 </div>
