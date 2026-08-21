@@ -18,7 +18,7 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Vehicle Guidance</a>
 </div>
 
-Intersecting machine learning and astronomical instrumentation.
+Intersecting machine learning and astronomical instrumentation
 
 {% comment %}
 <div class="callout callout-success" markdown="0">
