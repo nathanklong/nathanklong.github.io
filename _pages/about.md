@@ -49,7 +49,7 @@ permalink: /about/
 <h3>Awards</h3>
 <ul>
 {% for award in site.data.awards %}
-<li>{{ award.name | replace: "-","&#8211;" }}</li>
+<li>{{ award.name }}</li>
 {% endfor %}
 </ul>
 </div>
