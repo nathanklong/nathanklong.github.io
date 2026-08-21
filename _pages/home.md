@@ -14,9 +14,11 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Machine Learning</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Swarm Intelligence</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Sea State Estimation</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Artificial Intelligence</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Vehicle Guidance</a>
 </div>
+{% comment %}
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Artificial Intelligence</a>
+{% endcomment %}
 
 Intersecting machine learning and astronomical instrumentation
 
