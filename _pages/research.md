@@ -12,48 +12,48 @@ permalink: /research/
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/qed.svg" class="research-thumb" alt="Feynman diagram">
 <div class="research-body">
-<h4 class="research-title">Quantum Electrodynamics</h4>
-<p class="research-desc">Development of the path integral formulation of quantum mechanics and its application to quantum electrodynamics (QED). This work introduced Feynman diagrams as a powerful tool for calculating particle interactions, providing an intuitive visual representation of complex quantum processes.</p>
+<h4 class="research-title">Astronomical Instrumentation</h4>
+<p class="research-desc">Development of Astronomical Instrumentation for the Astralis Instrumentation Consortium, at Astralis-USyd, Sydney Institute for Astronomy, University of Sydney. Seidr is a kernel-nulling instrument. The Photonic Wavefront Imager uses an oversampled photonic lantern.</p>
 </div>
 </div>
 
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Superfluid helium">
 <div class="research-body">
-<h4 class="research-title">Superfluidity</h4>
-<p class="research-desc">Quantum mechanical explanation of the behavior of liquid helium near absolute zero. Using path integral methods, we developed a microscopic theory of the lambda transition and explained the energy spectrum of excitations in superfluid helium, including the roton minimum.</p>
+<h4 class="research-title">Quantum Communication</h4>
+<p class="research-desc">Quantum Communication for satellite-Earth links.</p>
 </div>
 </div>
 
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Parton model">
 <div class="research-body">
-<h4 class="research-title">Parton Model</h4>
-<p class="research-desc">A model describing the internal structure of hadrons in terms of point-like constituents called partons. This framework proved essential for interpreting deep inelastic scattering experiments at SLAC and laid the groundwork for quantum chromodynamics (QCD).</p>
+<h4 class="research-title">Machine Learning</h4>
+<p class="research-desc">Development of neural network architectures for a variety of applications. Primary focus is on neural networks for temporaral and spatial phase estimation.</p>
 </div>
 </div>
 
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Quantum circuit">
 <div class="research-body">
-<h4 class="research-title">Quantum Computing</h4>
-<p class="research-desc">Pioneering proposals for using quantum mechanical systems to perform computation. We demonstrated that classical computers cannot efficiently simulate quantum physics, motivating the development of quantum computers that exploit superposition and entanglement.</p>
+<h4 class="research-title">Swarm Intelligence</h4> 
+<p class="research-desc">Swarm intelligence as a bio-inspired multi-agent guidance approach, with a focus on swarm shepherding.</p>
 </div>
 </div>
 
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/nanotechnology.svg" class="research-thumb" alt="Atomic manipulation">
 <div class="research-body">
-<h4 class="research-title">Nanotechnology</h4>
-<p class="research-desc">Exploration of the physical possibilities of manipulating matter at the atomic scale. The talk "There's Plenty of Room at the Bottom" envisioned machines that could arrange atoms one by one, anticipating modern nanotechnology and molecular manufacturing.</p>
+<h4 class="research-title">Sea State Estimation</h4>
+<p class="research-desc">Using the boat-as-a-wavebuoy analogy.</p>
 </div>
 </div>
 
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/weak-interactions.svg" class="research-thumb" alt="Weak interaction diagram">
 <div class="research-body">
-<h4 class="research-title">Weak Interactions</h4>
-<p class="research-desc">Development of the V-A theory of the weak interaction with Murray Gell-Mann. This theory correctly predicted the structure of weak decays and was later incorporated into the electroweak unification by Weinberg, Salam, and Glashow.</p>
+<h4 class="research-title">Vehicle Guidance</h4>
+<p class="research-desc">Regenerative dynamic soaring and uninhabited surface vessel dynamics.</p>
 </div>
 </div>
 
