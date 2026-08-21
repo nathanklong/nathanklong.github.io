@@ -31,6 +31,7 @@ permalink: /about/
 </div>
 </div>
 
+{% comment %}
 {% if site.data.grants %}
 <div class="section-card">
 <h3>Grants</h3>
@@ -41,6 +42,7 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+{% endcomment %}
 
 {% if site.data.awards %}
 <div class="section-card">
@@ -53,6 +55,7 @@ permalink: /about/
 </div>
 {% endif %}
 
+{% comment %}
 {% if site.data.people %}
 <div class="section-card">
 <h3>Students and Mentoring</h3>
@@ -63,7 +66,9 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+{% endcomment %}
 
+{% comment %}
 {% if site.data.funders %}
 <div class="section-card">
 <h4>Sponsors</h4>
@@ -74,3 +79,4 @@ permalink: /about/
 </div>
 </div>
 {% endif %}
+{% endcomment %}
