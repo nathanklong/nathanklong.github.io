@@ -10,7 +10,7 @@ permalink: /research/
 <div class="research-grid">
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/qed.svg" class="research-thumb" alt="Feynman diagram">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/seidr_wf_grid_true_tnn_cnn_kolmogorov_contig_preds.svg" class="research-thumb" alt="wavefronts">
 <div class="research-body">
 <h4 class="research-title">Astronomical Instrumentation</h4>
 <p class="research-desc">Development of Astronomical Instrumentation for the Astralis Instrumentation Consortium, at Astralis-USyd, Sydney Institute for Astronomy, University of Sydney. Seidr is a kernel-nulling instrument. The Photonic Wavefront Imager uses an oversampled photonic lantern.</p>
@@ -26,7 +26,7 @@ permalink: /research/
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Parton model">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/transformer_encoder_seidr_horizontal_pl.svg" class="research-thumb" alt="tnn">
 <div class="research-body">
 <h4 class="research-title">Machine Learning</h4>
 <p class="research-desc">Development of neural network architectures for a variety of applications. Primary focus is on neural networks for temporaral and spatial phase estimation.</p>
@@ -34,7 +34,7 @@ permalink: /research/
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Quantum circuit">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/The_Great_Wave_of_Shepherding.jpg" class="research-thumb" alt="shepherding">
 <div class="research-body">
 <h4 class="research-title">Swarm Intelligence</h4> 
 <p class="research-desc">Swarm intelligence as a bio-inspired multi-agent guidance approach, with a focus on swarm shepherding.</p>
@@ -42,7 +42,7 @@ permalink: /research/
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/nanotechnology.svg" class="research-thumb" alt="Atomic manipulation">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/coordinate_system3.svg" class="research-thumb" alt="sse">
 <div class="research-body">
 <h4 class="research-title">Sea State Estimation</h4>
 <p class="research-desc">Using the boat-as-a-wavebuoy analogy.</p>
