@@ -11,7 +11,7 @@ permalink: /research/
 
 <div class="research-card" markdown="0">>
 <a href="{{ site.url }}{{ site.baseurl }}/research/astronomical-instrumentation/" style="text-decoration: none; color: inherit; display: block;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/seidr_schematic_2.svg" class="research-thumb" alt="wavefronts">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/kernel_nulling_spie_2.svg" class="research-thumb" alt="wavefronts">
 <div class="research-body">
 <h4 class="research-title">Astronomical Instrumentation</h4>
 <p class="research-desc">Development of Astronomical Instrumentation... The Photonic Wavefront Imager uses an oversampled photonic lantern.</p>
