@@ -25,4 +25,8 @@ permalink: /publications/
 <h3>Conference Proceedings</h3>
 
 {% bibliography --query @inproceedings %}
+
+<h3>Theses</h3>
+
+{% bibliography --query @mastersthesis @phdthesis %}
 </div>
