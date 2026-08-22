@@ -9,7 +9,7 @@ permalink: /research/
 
 <div class="research-grid">
 
-<div class="research-card" markdown="0">>
+<div class="research-card" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/research/astronomical-instrumentation/" style="text-decoration: none; color: inherit; display: block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/asgard_suite_2.svg" class="research-thumb" alt="wavefronts">
 <div class="research-body">
