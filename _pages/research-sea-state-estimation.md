@@ -12,11 +12,15 @@ coordinate frames involved, and the estimation method. Expand into several
 paragraphs.
 
 ### Papers
-- [Paper title, venue (year)](https://doi.org/10.xxxx/xxxxx)
 
-{% comment %}
-- [Another paper (PDF)]({{ site.url }}{{ site.baseurl }}/papers/yourpaper.pdf)
-{% endcomment %}
+##### Ship-As-A-Wave-Buoy Analogy
+- [Response Component Analysis for Sea State Estimation Using Artificial Neural Networks and Vessel Response Spectral Data (2021)]({{ site.url }}{{ site.baseurl }}/papers/Long2022_-_Response Component Analysis for Sea State Estimation Using Artificial Neural Networks and Vessel Response Spectral Data.pdf)
+
+##### Multi-Vessel Sea State Estimation
+- [Multi-Vessel Sea State Estimation Using Artificial Neural Networks and Vessel Response Spectral Data (2021)]({{ site.url }}{{ site.baseurl }}/papers/Long2021_MSc_Thesis_-_Multi-vessel sea state estimation using artificial neural networks and vessel response spectral data.pdf)
+
+##### Swarm Shepherding
+- [Multi-vessel Sea State Estimation Utilising Swarm Shepherding (2019)]({{ site.url }}{{ site.baseurl }}/papers/Long2019_-_Multi-vessel Sea State Estimation Utilising Swarm Shepherding.pdf)
 
 ### Figures
 {% comment %}
