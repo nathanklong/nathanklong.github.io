@@ -9,7 +9,7 @@ permalink: /research/
 
 <div class="research-grid">
 
-<div class="research-card">
+<div class="research-card" markdown="0">>
 <a href="{{ site.url }}{{ site.baseurl }}/research/astronomical-instrumentation/" style="text-decoration: none; color: inherit; display: block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/seidr_wf_grid_true_tnn_cnn_kolmogorov_contig_preds.svg" class="research-thumb" alt="wavefronts">
 <div class="research-body">
@@ -20,7 +20,7 @@ permalink: /research/
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/wiley_aqt_graphic.svg" class="research-thumb" alt="quantum-satellite">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/wiley_aqt_graphic_2.svg" class="research-thumb" alt="quantum-satellite">
 <div class="research-body">
 <h4 class="research-title">Quantum Communication</h4>
 <p class="research-desc">Quantum Communication for satellite-Earth links.</p>
