@@ -17,10 +17,12 @@ approach. Expand into several paragraphs.
 - [Paper title, venue (year)](https://doi.org/10.xxxx/xxxxx)
 {% endcomment %}
 
-
+#### Swarm Shepherding
 - [Autonomous Goal-Based Environment Exploration Using Swarm Shepherding and Hilbert Space-Filling Paths (2021)]({{ site.url }}{{ site.baseurl }}/papers/Long2021_-_Autonomous Goal-Based Environment Exploration Using Swarm Shepherding and Hilbert Space-Filling Paths.pdf)
 - [A Comprehensive Review of Shepherding as a Bio-Inspired Swarm-Robotics Guidance Approach (2020)]({{ site.url }}{{ site.baseurl }}/papers/Long2020_-_A Comprehensive Review of Shepherding as a Bio-Inspired Swarm-Robotics Guidance Approach.pdf)
 - [Multi-vessel Sea State Estimation Utilising Swarm Shepherding (2019)]({{ site.url }}{{ site.baseurl }}/papers/Long2019_-_Multi-vessel Sea State Estimation Utilising Swarm Shepherding.pdf)
+
+#### Regenerative Soaring
 - [Regenerative Dynamic Soaring Trajectory Augmentation over Flat Terrains (2019)]({{ site.url }}{{ site.baseurl }}/papers/Long2019_-_Regenerative_Dynamic_Soaring_Trajectory_Augmentation_over_Flat_Terrains.pdf)
 - [Bio-inspired Regenerative Flight Trajectory Optmisation Over Flat Topography (2018)]({{ site.url }}{{ site.baseurl }}/papers/Long2018_-_Bio-inspired_Regenerative_Flight_Trajectory_Optmisation_Over_Flat_Topography.pdf)
 
