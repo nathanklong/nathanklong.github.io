@@ -15,9 +15,15 @@ Expand into several paragraphs.
 ### Papers
 - [Paper title, venue (year)](https://doi.org/10.xxxx/xxxxx)
 
+#### Phase Estimation (Photonic Lantern)
+
+#### Phase Estimation (Continuous-Variable Quantum Communication)
 {% comment %}
 - [Another paper (PDF)]({{ site.url }}{{ site.baseurl }}/papers/yourpaper.pdf)
 {% endcomment %}
+
+#### Sea State Estimation
+
 
 ### Figures
 {% comment %}
