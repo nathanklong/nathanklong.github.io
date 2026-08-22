@@ -10,15 +10,17 @@ permalink: /research/
 <div class="research-grid">
 
 <div class="research-card">
+<a href="{{ site.url }}{{ site.baseurl }}/research/astronomical-instrumentation/" style="text-decoration: none; color: inherit; display: block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/seidr_wf_grid_true_tnn_cnn_kolmogorov_contig_preds.svg" class="research-thumb" alt="wavefronts">
 <div class="research-body">
 <h4 class="research-title">Astronomical Instrumentation</h4>
-<p class="research-desc">Development of Astronomical Instrumentation for the Astralis Instrumentation Consortium, at Astralis-USyd, Sydney Institute for Astronomy, University of Sydney. Seidr is a kernel-nulling instrument. The Photonic Wavefront Imager uses an oversampled photonic lantern.</p>
+<p class="research-desc">Development of Astronomical Instrumentation... The Photonic Wavefront Imager uses an oversampled photonic lantern.</p>
 </div>
+</a>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/wiley_aqt.jpg" class="research-thumb" alt="quantum-satellite">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/wiley_aqt_graphic.svg" class="research-thumb" alt="quantum-satellite">
 <div class="research-body">
 <h4 class="research-title">Quantum Communication</h4>
 <p class="research-desc">Quantum Communication for satellite-Earth links.</p>
