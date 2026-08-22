@@ -19,7 +19,7 @@ permalink: /research/
 </a>
 </div>
 
-<div class="research-card">
+<div class="research-card" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/research/quantum-communication/" style="text-decoration: none; color: inherit; display: block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/wiley_aqt_graphic_3.svg" class="research-thumb" alt="quantum-satellite">
 <div class="research-body">
@@ -29,7 +29,7 @@ permalink: /research/
 </a>
 </div>
 
-<div class="research-card">
+<div class="research-card" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/research/machine-learning/" style="text-decoration: none; color: inherit; display: block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/transformer_encoder_seidr_horizontal_pl.svg" class="research-thumb" alt="tnn">
 <div class="research-body">
@@ -39,7 +39,7 @@ permalink: /research/
 </a>
 </div>
 
-<div class="research-card">
+<div class="research-card" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/research/swarm-intelligence/" style="text-decoration: none; color: inherit; display: block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/The_Great_Wave_of_Shepherding.jpg" class="research-thumb" alt="shepherding">
 <div class="research-body">
@@ -49,7 +49,7 @@ permalink: /research/
 </a>
 </div>
 
-<div class="research-card">
+<div class="research-card" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/research/sea-state-estimation/" style="text-decoration: none; color: inherit; display: block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/coordinate_systems3.svg" class="research-thumb" alt="sse">
 <div class="research-body">
@@ -59,7 +59,7 @@ permalink: /research/
 </a>
 </div>
 
-<div class="research-card">
+<div class="research-card" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/research/autonomous-vehicle-guidance/" style="text-decoration: none; color: inherit; display: block;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/DT18_Closed_Maneuvers.svg" class="research-thumb" alt="regen_soaring">
 <div class="research-body">
