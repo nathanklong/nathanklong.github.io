@@ -4,7 +4,7 @@ layout: gridlay
 permalink: /research/astronomical-instrumentation/
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/seidr_wf_grid_true_tnn_cnn_kolmogorov_contig_preds.svg" alt="Reconstructed wavefronts: true, TNN, and CNN predictions" style="width: 100%; height: auto; border-radius: var(--radius); margin-bottom: var(--space-6);">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/seidr_schematic_2.svg" alt="Reconstructed wavefronts: true, TNN, and CNN predictions" style="width: 100%; height: auto; border-radius: var(--radius); margin-bottom: var(--space-6);">
 
 ## Astronomical Instrumentation
 
