@@ -20,7 +20,9 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Artificial Intelligence</a>
 {% endcomment %}
 
+{% comment %}
 Intersecting machine learning and astronomical instrumentation
+{% endcomment %}
 
 {% comment %}
 <div class="callout callout-success" markdown="0">
