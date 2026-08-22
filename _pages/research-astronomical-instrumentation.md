@@ -15,8 +15,8 @@ and its oversampled photonic lantern, the contrast/IWA regime, the science case.
 
 ### Papers
 
-- [Seidr update: photonic 'black magic' for high-contrast interferometry using kernel-nulling and photonic lanterns. (2026)](https://arxiv.org/abs/2607.03280)
-- [Overcoming the low signal-to-noise problem for hybrid mode-selective photonic lantern-based wavefront correction using machine learning. (2026)](https://arxiv.org/abs/2607.03285)
+- [Seidr update: photonic 'black magic' for high-contrast interferometry using kernel-nulling and photonic lanterns (2026)](https://arxiv.org/abs/2607.03280)
+- [Overcoming the low signal-to-noise problem for hybrid mode-selective photonic lantern-based wavefront correction using machine learning (2026)](https://arxiv.org/abs/2607.03285)
 
 {% comment %}
 - [Another paper (PDF)]({{ site.url }}{{ site.baseurl }}/papers/yourpaper.pdf)
