@@ -12,11 +12,10 @@ guidance approach, the agent model, and the control problem. Expand into
 several paragraphs.
 
 ### Papers
-- [Paper title, venue (year)](https://doi.org/10.xxxx/xxxxx)
 
-{% comment %}
-- [Another paper (PDF)]({{ site.url }}{{ site.baseurl }}/papers/yourpaper.pdf)
-{% endcomment %}
+- [Autonomous Goal-Based Environment Exploration Using Swarm Shepherding and Hilbert Space-Filling Paths (2021)]({{ site.url }}{{ site.baseurl }}/papers/Long2021_-_Autonomous Goal-Based Environment Exploration Using Swarm Shepherding and Hilbert Space-Filling Paths.pdf)
+- [A Comprehensive Review of Shepherding as a Bio-Inspired Swarm-Robotics Guidance Approach (2020)]({{ site.url }}{{ site.baseurl }}/papers/Long2020_-_A Comprehensive Review of Shepherding as a Bio-Inspired Swarm-Robotics Guidance Approach.pdf)
+- [Multi-vessel Sea State Estimation Utilising Swarm Shepherding (2019)]({{ site.url }}{{ site.baseurl }}/papers/Long2019_-_Multi-vessel Sea State Estimation Utilising Swarm Shepherding.pdf)
 
 ### Figures
 {% comment %}
