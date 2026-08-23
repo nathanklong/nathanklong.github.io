@@ -11,11 +11,13 @@ The boat-as-a-wavebuoy analogy — estimating sea state from vessel motion, the
 coordinate frames involved, and the estimation method. Expand into several
 paragraphs.
 
-### Papers
+### Select Papers
 
 - [Response Component Analysis for Sea State Estimation Using Artificial Neural Networks and Vessel Response Spectral Data (2021)]({{ site.url }}{{ site.baseurl }}/papers/Long2022_-_Response Component Analysis for Sea State Estimation Using Artificial Neural Networks and Vessel Response Spectral Data.pdf)
 - [Multi-Vessel Sea State Estimation Using Artificial Neural Networks and Vessel Response Spectral Data (2021)]({{ site.url }}{{ site.baseurl }}/papers/Long2021_MSc_Thesis_-_Multi-vessel sea state estimation using artificial neural networks and vessel response spectral data.pdf)
 - [Multi-vessel Sea State Estimation Utilising Swarm Shepherding (2019)]({{ site.url }}{{ site.baseurl }}/papers/Long2019_-_Multi-vessel Sea State Estimation Utilising Swarm Shepherding.pdf)
+
+See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography)
 
 ### Figures
 {% comment %}
