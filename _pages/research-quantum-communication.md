@@ -18,7 +18,7 @@ detection/estimation theory involved. Expand into several paragraphs.
 - [Phase Correction using Deep Learning for Satellite-to-Ground CV-QKD (2024)]({{ site.url }}{{ site.baseurl }}/papers/Long2024_-_Phase Correction using Deep Learning for Satellite-to-Ground CV-QKD.pdf)
 - [A Survey of Machine Learning Assisted Continuous-Variable Quantum Key Distribution (2023)]({{ site.url }}{{ site.baseurl }}/papers/Long2023_-_A Survey of Machine Learning Assisted Continuous-Variable Quantum Key Distribution.pdf)
 
-See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography)
+See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
 
 ### Figures
 
