@@ -11,11 +11,13 @@ Bio-inspired multi-agent guidance, with a focus on swarm shepherding — the
 guidance approach, the agent model, and the control problem. Expand into
 several paragraphs.
 
-### Papers
+### Select Papers
 
 - [Autonomous Goal-Based Environment Exploration Using Swarm Shepherding and Hilbert Space-Filling Paths (2021)]({{ site.url }}{{ site.baseurl }}/papers/Long2021_-_Autonomous Goal-Based Environment Exploration Using Swarm Shepherding and Hilbert Space-Filling Paths.pdf)
 - [A Comprehensive Review of Shepherding as a Bio-Inspired Swarm-Robotics Guidance Approach (2020)]({{ site.url }}{{ site.baseurl }}/papers/Long2020_-_A Comprehensive Review of Shepherding as a Bio-Inspired Swarm-Robotics Guidance Approach.pdf)
 - [Multi-vessel Sea State Estimation Utilising Swarm Shepherding (2019)]({{ site.url }}{{ site.baseurl }}/papers/Long2019_-_Multi-vessel Sea State Estimation Utilising Swarm Shepherding.pdf)
+
+See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography)
 
 ### Figures
 {% comment %}
