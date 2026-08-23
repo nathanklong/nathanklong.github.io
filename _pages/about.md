@@ -44,23 +44,23 @@ permalink: /about/
 {% endif %}
 {% endcomment %}
 
-{% if site.data.awards %}
-<div class="section-card">
-<h3>Awards</h3>
-<ul>
-{% for award in site.data.awards %}
-<li>{{ award.name }}</li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
-
 {% if site.data.associations %}
 <div class="section-card">
 <h3>Associations</h3>
 <ul>
 {% for association in site.data.associations %}
 <li>{{ association.name }}</li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
+
+{% if site.data.awards %}
+<div class="section-card">
+<h3>Awards</h3>
+<ul>
+{% for award in site.data.awards %}
+<li>{{ award.name }}</li>
 {% endfor %}
 </ul>
 </div>
