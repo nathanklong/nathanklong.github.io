@@ -13,14 +13,12 @@ page top level, so **bold**, [links](https://example.org), and math all render
 fine. Write about Seidr's kernel-nulling approach, the Photonic Wavefront Imager
 and its oversampled photonic lantern, the contrast/IWA regime, the science case.
 
-### Papers
+### Select Papers
 
-- [[1] Seidr update: photonic 'black magic' for high-contrast interferometry using kernel-nulling and photonic lanterns (2026)](https://arxiv.org/abs/2607.03280)
-- [[2] Overcoming the low signal-to-noise problem for hybrid mode-selective photonic lantern-based wavefront correction using machine learning (2026)](https://arxiv.org/abs/2607.03285)
+- [Seidr update: photonic 'black magic' for high-contrast interferometry using kernel-nulling and photonic lanterns (2026)](https://arxiv.org/abs/2607.03280)
+- [Overcoming the low signal-to-noise problem for hybrid mode-selective photonic lantern-based wavefront correction using machine learning (2026)]({{ site.url }}{{ site.baseurl }}/papers/Long2026_-_Overcoming the low signal-to-noise problem for hybrid mode-selective photonic lantern-based wavefront correction using machine learning.pdf)
 
-{% comment %}
-- [Another paper (PDF)]({{ site.url }}{{ site.baseurl }}/papers/yourpaper.pdf)
-{% endcomment %}
+See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography)
 
 ### Figures
 
