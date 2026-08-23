@@ -5,6 +5,10 @@ date: 2025-01-31
 categories: "Quantum"
 ---
 
+At the end of 2024, I entered the Quantum Explained Challenge - Quantum Made Clear. Run by the COSMOS Magazine, the Australian Institute of Physics, and CSIRO, the objective was to explain quantum processes with scientific accuracy and with the ability to engage a young audience. The analogy that came to mind was of the perceived superposition of a bee's flapping wings.
+
+---
+
 Imagine a bee, we’ll call it a classical bee. The bee’s wings flap up and down, up and down, up and down. We know that the bee’s wings are either up or they’re down, or they’re somewhere in between. If you could slow down their motion and looked closely, you could see the wings rotating between the up and down position.
 
 Now imagine a real bee. Can you tell if its wings are up or down? You can’t right? The wings almost seem like they’re both up and down at the same time! Hold that memory.
