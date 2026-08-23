@@ -16,7 +16,7 @@ In the quantum world, we would say that the bee’s wings are in a superposition
 When we observe the wings, their superposition collapses into either up or down in the quantum world. But if the bee’s flying around in the quantum world without being observed, then the wings are in that strange state between up and down, just like in our memory.
 
 <div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/the_quantum_bee_4.png" alt="The Quantum Bee" loading="lazy">
+<img src="{{ site.url }}{{ site.baseurl }}/images/the_quantum_bee_4.png" alt="The Quantum Bee" loading="lazy">
 <div class="banner-caption">The Quantum Bee</div>
 </div>
 
