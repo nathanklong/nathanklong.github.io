@@ -17,7 +17,7 @@ When we observe the wings, their superposition collapses into either up or down 
 
 <div class="banner-frame" markdown="0"
      style="max-width: 500px; margin: 0 auto;">
-<img src="{{ site.url }}{{ site.baseurl }}/the_quantum_bee_4.png"
+<img src="{{ site.url }}{{ site.baseurl }}/images/the_quantum_bee_4.png"
      alt="The Quantum Bee"
      loading="lazy"
      style="width: 100%; height: auto; display: block;">
