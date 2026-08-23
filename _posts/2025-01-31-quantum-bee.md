@@ -1,44 +1,24 @@
 ---
-
 layout: post
-title: The Quantum Bee
-date: 2026-08-23
-categories: Quantum
--------------------
+title: "The Quantum Bee"
+date: 2025-01-31
+categories: "Quantum"
+---
 
-Imagine a bee. We'll call this one a **classical bee**.
+Imagine a bee, we’ll call it a classical bee. The bee’s wings flap up and down, up and down, up and down. We know that the bee’s wings are either up or they’re down, or they’re somewhere in between. If you could slow down their motion and looked closely, you could see the wings rotating between the up and down position.
 
-Its wings flap up and down, up and down, up and down. At any instant, the wings have a definite position: they might be up, down, or somewhere in between. If we could slow the motion down enough, we could watch the wings move continuously from one position to the other.
+Now imagine a real bee. Can you tell if its wings are up or down? You can’t right? The wings almost seem like they’re both up and down at the same time! Hold that memory.
 
-Now think about a real bee flying past you. Its wings move so quickly that, to our eyes, they appear almost as if they are **up and down at the same time**.
+Now, let’s shrink the bee down so that it’s a tiny bee, we’ll call it a quantum bee. In the quantum world, the bee is still flapping its wings, but now we don’t know whether the bee’s wings are up or down (just like our memory). In this world, the wings are both up and down at the same time!
 
-Keep that picture in mind.
+In the quantum world, we would say that the bee’s wings are in a superposition of being up and down. However, if we take a picture of the bee’s wings using a high-resolution camera, the picture will show the wings being either up or down!
 
-Now imagine shrinking our bee down into the quantum world. Meet the **quantum bee**.
-
-In quantum mechanics, something strange can happen. Instead of the bee's wings simply having one definite state that we haven't managed to see, they can exist in a combination of different possible states. Our quantum bee's wings can be in a combination of **up** and **down** at the same time.
-
-This is called **superposition**.
-
-Superposition is one of the fundamental ideas in quantum mechanics. A quantum system can exist in a combination of possible states until we make a measurement.
-
-So what happens if we take a photograph of our quantum bee?
-
-When we measure the position of its wings, we don't photograph a blurry mixture of up and down. Instead, our measurement gives us a definite result: perhaps the wings are **up**, or perhaps they are **down**.
-
-The superposition has been reduced to one of the possible measurement outcomes.
-
-This is one of the things that makes quantum mechanics so different from our everyday experience. Before measurement, quantum mechanics describes the wings using a superposition of possibilities. When we measure them, we observe only one result.
-
-Of course, a real bee's blurry wings aren't actually a quantum superposition — they're simply moving too quickly for our eyes or camera to resolve. But the image provides a useful way to begin thinking about the much stranger behaviour of objects in the quantum world.
-
-The next time you see a bee buzzing past, think about its wings.
-
-**Up? Down? Or, if it were a quantum bee... both?**
-
-*Inspired by [The Quantum Bee](https://blog.doublehelix.csiro.au/the-quantum-bee/) from CSIRO's Double Helix.*
+When we observe the wings, their superposition collapses into either up or down in the quantum world. But if the bee’s flying around in the quantum world without being observed, then the wings are in that strange state between up and down, just like in our memory.
 
 <div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/quantum_bee.png" alt="An illustration of the quantum bee" loading="lazy">
-<div class="banner-caption">The quantum bee: a simple analogy for quantum superposition.</div>
+<img src="{{ site.url }}{{ site.baseurl }}/the_quantum_bee_4.png" alt="The Quantum Bee" loading="lazy">
+<div class="banner-caption">The Quantum Bee</div>
 </div>
+
+## References
+- [The Quantum Bee — CSIRO Double Helix](https://blog.doublehelix.csiro.au/the-quantum-bee/)
