@@ -8,10 +8,23 @@ permalink: /research/astronomical-instrumentation/
 
 ## Astronomical Instrumentation
 
-Several paragraphs of longer description here. This is normal Markdown at the
-page top level, so **bold**, [links](https://example.org), and math all render
-fine. Write about Seidr's kernel-nulling approach, the Photonic Wavefront Imager
-and its oversampled photonic lantern, the contrast/IWA regime, the science case.
+As a Postdoctoral Researcher with the Astralis Instrumentation Consortium at the Sydney Institute for Astronomy, I am leading the design of the Seidr instrument as a part of the Asgard Suite for the Very Large Telescope Interferometer, and contributing to the Photonic Wavefront Imager for the Magellan Clay MagAO-X. 
+
+*Seidr*
+
+Seidr is a photonic kernel-nulling instrument which will operate within the H-band as a node in Bifrost in the Asgard Instrumentation Suite, at the European Southern Observatory’s Very Large Telescope Interferometer (VLTI). Seidr uses advanced photonic technology to achieve high angular resolution and high contrast imaging of faint companions and circumstellar material.
+
+A kernel-nulling chip destructively suppresses starlight from the VLTI’s four telescopes to reveal faint off-axis signals. Its main science cases include detecting young, self-luminous giant exoplanets, probing warm exozodiacal dust close to nearby stars, and exploring future pathways towards the detection of faint companions such as exomoons.
+
+Seidr introduces hybrid mode-selective photonic lanterns upstream of the kernel nulling chip to optimise light injected into the chip using a mode-selective core. Simultaneously, the lanterns sense wavefront errors on the same optical path using their wavefront sensing cores, reducing non-common-path aberrations and improving nulling performance.
+
+*Photonic Wavefront Imager*
+
+Photonic Wavefront Imager (PWI) uses unique Australian-led photonic technology to achieve exquisitely high angular resolution and high-contrast imaging for exoplanet, stellar and active galactic nuclei science.
+
+This project will first build PWI for the Magellan for the MagAO-X extreme adaptive optics system. This will be both a uniquely sensitive science instrument and wavefront sensor, as well as the pathfinder for a subsequent version for the GMT. The GMT PWI will also have the benefit of improving image quality (via mirror-phasing and wavefront sensing) for other GMT instruments.
+
+A version is also being developed forth SCExAO system at the Subaru telescope, and the core technology is currently being integrated into the Asgard suite at ESO’s VLTI. Several PWI instrument instances will therefore come from this project.
 
 ### Select Papers
 
@@ -21,7 +34,6 @@ and its oversampled photonic lantern, the contrast/IWA regime, the science case.
 See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
 
 ### Figures
-
 
 <figure style="margin: 0 0 var(--space-6) 0;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/seidr_schematic_2.svg" alt="seidr" style="width: 100%; height: auto; border-radius: var(--radius);">
