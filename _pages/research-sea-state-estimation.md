@@ -10,6 +10,8 @@ permalink: /research/sea-state-estimation/
 
 I worked as a Naval Architect between 2019 and 2021, where I focused on the problem of in-situ, real-time sea state estimation. A solution was to use a ship-as-a-wave buoy, where I designed neural networks to build a relationship between the motion response of a vessel and different sea state conditions.
 
+<hr style="border: 0; border-top: 2px solid #555; margin: 2rem 0;">
+
 The use of the `ship as a wave buoy analogy' (SAWB) provides a novel means to estimate sea states, where relationships are established between causal wave properties and vessel motion response information. This study focuses on a model-free machine learning approach to SAWB-based sea state estimation (SSE), using neural networks (NNs) to map vessel response spectral data to statistical wave properties for a small uninhabited surface vessel.
 
 Results showed a strong correlation between heave responses and significant wave height estimates, whilst the accuracy of mean wave period and wave heading predictions were observed to improve considerably when data from multiple vessel degrees of freedom (DOFs) was utilized. Overall, 3-DOF (heave, pitch and roll) NNs for SSE were shown to perform well when compared to existing SSE approaches that use similar simulation setups. One advantage of using small vessels for SAWB was shown as SSE accuracy was reasonable even when motion responses were low (in high-frequency, low wave height sea states).
