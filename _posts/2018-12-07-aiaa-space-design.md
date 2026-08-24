@@ -18,7 +18,7 @@ A possible follow-on to NASA’s LCROSS mission is described. It is argued that,
 
 <div class="banner-frame" markdown="0"
      style="max-width: 550px; margin: 0 auto;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/impact_orbiter_4.png"
+<img src="{{ site.url }}{{ site.baseurl }}/images/impact_orbiter_3.png"
      alt="imact_orbiter"
      loading="lazy"
      style="width: 100%; height: auto; display: block;">
