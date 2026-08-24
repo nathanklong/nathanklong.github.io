@@ -12,7 +12,7 @@ CNN and transformer models mapping photonic lantern core power measurements to
 wavefronts, the training data pipeline, and performance across noise cases.
 Expand into several paragraphs.
 
-### Papers
+### Select Papers
 
 {% comment %}
 #### Phase Estimation (Photonic Lantern)
