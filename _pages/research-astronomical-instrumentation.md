@@ -20,6 +20,7 @@ A kernel-nulling chip destructively suppresses starlight from the VLTI’s four 
 
 Seidr introduces hybrid mode-selective photonic lanterns upstream of the kernel nulling chip to optimise light injected into the chip using a mode-selective core. Simultaneously, the lanterns sense wavefront errors on the same optical path using their wavefront sensing cores, reducing non-common-path aberrations and improving nulling performance.
 
+
 *Photonic Wavefront Imager*
 
 Photonic Wavefront Imager (PWI) uses unique Australian-led photonic technology to achieve exquisitely high angular resolution and high-contrast imaging for exoplanet, stellar and active galactic nuclei science.
