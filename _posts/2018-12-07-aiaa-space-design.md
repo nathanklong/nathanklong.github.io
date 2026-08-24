@@ -5,10 +5,14 @@ date: 2018-12-07
 categories: "Space Mission"
 ---
 
-A possible follow-on to NASA’s LCROSS mission is described. It is argued that, prior to lunar resource exploitation, it is necessary to better constrain the lunar regolith water ice content and distribution in the southern pole region, to improve confidence that water can be found in sufficiently large quantities and to better inform the siting of future in-situ production facilities. A novel mission architecture solution is proposed comprising of three segments: a cis-lunar polar orbiter, a set of six impactors and a low lunar polar orbiting spacecraft. On successive orbits the cis-lunar orbiter releases one or more impactors such that each one strikes a different designated lunar polar target site with an impact velocity of ~2.5 km/s. Each impactor comprises of a ~0.3 m diameter hollow copper sphere fitted with a cold gas micro-propulsion system to permit trajectory modification. Despite its poor structural properties, copper is selected to minimise measurement contamination. The ejector plume resulting from each impact is sampled by the orbiter, at a perilune altitude of ~50 km, using mass spectrometers (MASPEX and SUDA) and the impact site recorded using a thermal imager. In this manner, it is proposed that a robust measurement of the regolith-to-water ratio at multiple sites could be obtained. A preliminary mass and cost breakdown estimate of the proposed system is offered. It is concluded that the mission described might be achieved for ~$500M USD (FY18), which is deemed lower cost than other possible architectures employing landers/hoppers/rovers. The overall mission risk is also characterised as being low, given that it builds directly on LCROSS experience and the use of existing scientific instrumentation.
+During my Honours' year at the Royal Melbourne Institute of Technology, I led a team in the AIAA 2018 Undergraduate Space Design Competition – Robotic Lunar Crater Resource Prospecting. The objective was to design a NASA Discovery class mission to prospective for lunar water-ice in the polar craters. Our design placed 3rd in a competition dominated by teams from the United States. Subsequently, my peer, Stevie Nuss-Soeharto, and supervisor, Dr Graham Dorrington, refined our mission design into a conference proceeding, presenting it at the 2018 NSSA Australian Space Research Conference in the Gold Coast, Australia.
+
+<hr style="border: 0; border-top: 2px solid #555; margin: 2rem 0;">
+
+It is argued that, prior to lunar resource exploitation, it is necessary to better constrain the lunar regolith water ice content and distribution in the southern pole region, to improve confidence that water can be found in sufficiently large quantities and to better inform the siting of future in-situ production facilities. A novel mission architecture solution is proposed comprising of three segments: a cis-lunar polar orbiter, a set of six impactors and a low lunar polar orbiting spacecraft. On successive orbits the cis-lunar orbiter releases one or more impactors such that each one strikes a different designated lunar polar target site with an impact velocity of ~2.5 km/s. Each impactor comprises of a ~0.3 m diameter hollow copper sphere fitted with a cold gas micro-propulsion system to permit trajectory modification. Despite its poor structural properties, copper is selected to minimise measurement contamination. The ejector plume resulting from each impact is sampled by the orbiter, at a perilune altitude of ~50 km, using mass spectrometers (MASPEX and SUDA) and the impact site recorded using a thermal imager. In this manner, it is proposed that a robust measurement of the regolith-to-water ratio at multiple sites could be obtained. A preliminary mass and cost breakdown estimate of the proposed system is offered. It is concluded that the mission described might be achieved for ~$500M USD (FY18), which is deemed lower cost than other possible architectures employing landers/hoppers/rovers. The overall mission risk is also characterised as being low, given that it builds directly on LCROSS experience and the use of existing scientific instrumentation.
 
 <div class="banner-frame" markdown="0"
-     style="max-width: 550px; margin: 0 auto;">
+     style="max-width: 550px; margin: 0 auto 2rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/cis-lunar_impactor.png"
      alt="cis-lunar_impactor"
      loading="lazy"
@@ -17,9 +21,9 @@ A possible follow-on to NASA’s LCROSS mission is described. It is argued that,
 </div>
 
 <div class="banner-frame" markdown="0"
-     style="max-width: 550px; margin: 0 auto;">
+     style="max-width: 550px; margin: 0 auto 2rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/impact_orbiter_3.png"
-     alt="imact_orbiter"
+     alt="impact_orbiter"
      loading="lazy"
      style="width: 100%; height: auto; display: block;">
 <div class="banner-caption">Impact Orbiter</div>
