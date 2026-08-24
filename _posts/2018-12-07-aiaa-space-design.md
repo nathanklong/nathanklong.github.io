@@ -5,7 +5,7 @@ date: 2018-12-07
 categories: "Space Mission"
 ---
 
-During my Honours' year at the Royal Melbourne Institute of Technology, I led a team in the AIAA 2018 Undergraduate Space Design Competition – Robotic Lunar Crater Resource Prospecting. The objective was to design a NASA Discovery class mission to prospective for lunar water-ice in the polar craters. Our design placed 3rd in a competition dominated by teams from the United States. Subsequently, my peer, Stevie Nuss-Soeharto, and supervisor, Dr Graham Dorrington, refined our mission design into a conference proceeding, presenting it at the 2018 NSSA Australian Space Research Conference in the Gold Coast, Australia.
+During my Honours' year at the Royal Melbourne Institute of Technology, I led a team of my peers in Aerospace Engineering in entering the AIAA 2018 Undergraduate Space Design Competition – Robotic Lunar Crater Resource Prospecting. The objective was to design a NASA Discovery class mission to prospective for lunar water-ice in the polar craters. Our design placed 3rd in a competition dominated by teams from the United States. Subsequently, my peer, Stevie Nuss-Soeharto, and supervisor, Dr Graham Dorrington, refined our mission design into a conference proceeding, presenting it at the 2018 NSSA Australian Space Research Conference in the Gold Coast, Australia.
 
 <hr style="border: 0; border-top: 2px solid #555; margin: 2rem 0;">
 
