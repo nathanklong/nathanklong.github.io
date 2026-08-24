@@ -10,6 +10,8 @@ permalink: /research/astronomical-instrumentation/
 
 As a Postdoctoral Researcher with the Astralis Instrumentation Consortium at the Sydney Institute for Astronomy, I am leading the design of the Seidr instrument as a part of the Asgard Suite for the Very Large Telescope Interferometer, and contributing to the Photonic Wavefront Imager for the Magellan Clay MagAO-X. 
 
+<hr style="border: 0; border-top: 2px solid #555; margin: 2rem 0;">
+
 *Seidr*
 
 Seidr is a photonic kernel-nulling instrument which will operate within the H-band as a node in Bifrost in the Asgard Instrumentation Suite, at the European Southern Observatory’s Very Large Telescope Interferometer (VLTI). Seidr uses advanced photonic technology to achieve high angular resolution and high contrast imaging of faint companions and circumstellar material.
@@ -25,6 +27,9 @@ Photonic Wavefront Imager (PWI) uses unique Australian-led photonic technology t
 This project will first build PWI for the Magellan for the MagAO-X extreme adaptive optics system. This will be both a uniquely sensitive science instrument and wavefront sensor, as well as the pathfinder for a subsequent version for the GMT. The GMT PWI will also have the benefit of improving image quality (via mirror-phasing and wavefront sensing) for other GMT instruments.
 
 A version is also being developed forth SCExAO system at the Subaru telescope, and the core technology is currently being integrated into the Asgard suite at ESO’s VLTI. Several PWI instrument instances will therefore come from this project.
+
+<hr style="border: 0; border-top: 2px solid #555; margin: 2rem 0;">
+
 
 ### Select Papers
 
