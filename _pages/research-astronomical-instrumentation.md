@@ -20,6 +20,7 @@ A kernel-nulling chip destructively suppresses starlight from the VLTI’s four 
 
 Seidr introduces hybrid mode-selective photonic lanterns upstream of the kernel nulling chip to optimise light injected into the chip using a mode-selective core. Simultaneously, the lanterns sense wavefront errors on the same optical path using their wavefront sensing cores, reducing non-common-path aberrations and improving nulling performance.
 
+<hr style="border: 0; border-top: 1px dashed #666; margin: 2rem 0;">
 
 *Photonic Wavefront Imager*
 
@@ -41,9 +42,13 @@ See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibl
 
 ### Figures
 
-<figure style="margin: 0 0 var(--space-6) 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/seidr_schematic_2.svg" alt="seidr" style="width: 100%; height: auto; border-radius: var(--radius);">
-<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">Schematic of Seidr, the kernel nulling instrument for the Very Large Telescope Interferometer [1].</figcaption>
+<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/seidr_schematic_2.svg"
+     alt="seidr"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Schematic of Seidr, the kernel nulling instrument for the Very Large Telescope Interferometer [1].
+</figcaption>
 </figure>
 
 {% comment %}
