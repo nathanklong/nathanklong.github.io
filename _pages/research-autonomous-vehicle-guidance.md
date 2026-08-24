@@ -7,9 +7,14 @@ permalink: /research/autonomous-vehicle-guidance/
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/DT18_Closed_Maneuvers.svg" alt="Closed dynamic soaring maneuvers" style="width: 100%; height: auto; border-radius: var(--radius); margin-bottom: var(--space-6);">
 
 ## Autonomous Vehicle Guidance
-Regenerative dynamic soaring and uninhabited surface vessel dynamics — the
-guidance problem, the vehicle model, and the energy-extraction or control
-approach. Expand into several paragraphs.
+
+In 2017, I undertook a combined Honours' research project and internship at ISAE-Supaero in Toulouse, France. My project focused on *Regenerative Dynamic Soaring*, where an uninhabited aerial vehicle mimics the flight pattern of Southern Albatrosses (known as Dynamic Soaring) to perpetually glide using wind vectors over the Southern Ocean. Taking this idea one step further, Regenerative Dynamic Soaring uses a windmilling propeller to generate power from the wind vectors, recharging an internal battery.
+
+During my work as a Naval Architect, I investigated multi-vessel uninhabited surface vessel guidance for the purpose of *Sea State Estimation* using the ship-as-a-wave buoy analogy...***
+
+Further, I worked on *Swarm Shepherding* as a swarm-robotics guidance approach...***
+
+
 
 ### Select Papers
 
