@@ -5,7 +5,7 @@ date: 2025-01-31
 categories: "Quantum"
 ---
 
-At the end of 2024, I entered the Quantum Explained Challenge - Quantum Made Clear. Run by the COSMOS Magazine, the Australian Institute of Physics, and CSIRO, the objective was to explain quantum processes with scientific accuracy and with the ability to engage a young audience. The analogy that came to mind was of the perceived superposition of a bee's flapping wings. The story offers a simple conceptual understanding for quantum superposition, hopefully accessible to a wide audience. The Quantum Bee was selected as a winner and published by CSIRO.
+At the end of 2024, I entered the Quantum Explained Challenge - Quantum Made Clear, Run by the COSMOS Magazine, the Australian Institute of Physics, and CSIRO. The objective was to explain quantum processes with scientific accuracy and with the ability to engage a young audience. The analogy that came to mind was of the perceived superposition of a bee's flapping wings. The story offers a simple conceptual understanding for quantum superposition, hopefully accessible to a wide audience. The Quantum Bee was selected as a winner and published by CSIRO.
 
 <hr style="border: 0; border-top: 2px solid #555; margin: 2rem 0;">
 
