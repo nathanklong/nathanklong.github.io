@@ -43,17 +43,19 @@ See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibl
 ### Figures
 
 <figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/seidr_schematic_2.svg"
-     alt="seidr"
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/kernel_nulling_spie_2.svg"
+     alt="seidr-chip"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
-Schematic of Seidr, the kernel nulling instrument for the Very Large Telescope Interferometer [1].
+Kernel-nulling chip schematic, with four input beams passing through the VLTI and Asgard to Seidr. The nulling stage has one bright output and three dark outputs, the sensing stage produces six asymmetric dark outputs, which are used to construct three kernel observables.
 </figcaption>
 </figure>
 
-{% comment %}
-<figure style="margin: 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/kernel_leakage.svg" alt="Kernel leakage scaling" style="width: 100%; height: auto; border-radius: var(--radius);">
-<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">Kernel leakage scales as the σ<sub>φ</sub>·σ<sub>I</sub> cross term.</figcaption>
+<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/hms-pl6_transfer_matrix_wl=1.55_rms=8.20_ds=0.25_dz=2_rv=1_xyw=320_zlen=50000_tr=20_cut.svg"
+     alt="seidr-hmspl"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+6-core hybrid mode-selective photonic lantern intensity (left) and phase (right) transfer matrices, representing the transition from the input LP modes to the output single-mode fibre cores. The hybrid mode selectivity can be seen with the ~100% transmission of the LP01 mode to the central core 1.
+</figcaption>
 </figure>
-{% endcomment %}
