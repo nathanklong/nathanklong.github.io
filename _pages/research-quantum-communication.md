@@ -25,16 +25,16 @@ See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibl
 
 ### Figures
 
-{% comment %}
 <figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/kernel_nulling_spie_2.svg"
-     alt="seidr-chip"
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/system_diagram_nkl_map.svg"
+     alt="fso-experiments"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
-Kernel-nulling chip schematic, with four input beams passing through the VLTI and Asgard to Seidr. The nulling stage has one bright output and three dark outputs, the sensing stage produces six asymmetric dark outputs, which are used to construct three kernel observables.
+Experimental setup for preparation and measurement of a reference and signal in free-space optical campaign across a 2.4-km link (shown at the bottom right), where an MPLC is used to measure relative wavefront errors between the reference and signal. HG mode intensity and phase profiles shown at the receiver. AOM is an acousto-optic modulator, Pol is a polarizer, PC is a polarization controller, PD is a photodetector, ZBE is zoom beam expander, MC is the mode cleaner, Tx is the transmitter, Rx is the receiver, Ch is the channel, CCR is the corner cube retroreflector, and BENLOg represents our logarithmic photodetectors.
 </figcaption>
 </figure>
 
+{% comment %}
 <figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/hms-pl6_transfer_matrix_wl=1.55_rms=8.20_ds=0.25_dz=2_rv=1_xyw=320_zlen=50000_tr=20_cut.svg"
      alt="seidr-hmspl"
