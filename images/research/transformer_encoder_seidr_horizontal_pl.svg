@@ -22,11 +22,11 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="pt"
-     inkscape:zoom="2.1389935"
-     inkscape:cx="425.43375"
-     inkscape:cy="126.46135"
-     inkscape:window-width="1920"
-     inkscape:window-height="1111"
+     inkscape:zoom="2.6493415"
+     inkscape:cx="425.19999"
+     inkscape:cy="126.63524"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -1542,7 +1542,7 @@
          id="path234" />
     </clipPath>
     <image
-       id="source-453834"
+       id="source-851364"
        x="0"
        y="0"
        width="222"
@@ -5230,7 +5230,7 @@
      clip-path="url(#clip-92)"
      id="g563">
     <use
-       xlink:href="#source-453834"
+       xlink:href="#source-851364"
        transform="matrix(0.360672, 0.0000000151801, 0.000000243574, 0.360741, 555.394341, 62.110297)"
        id="use562" />
   </g>
