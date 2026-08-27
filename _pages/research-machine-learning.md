@@ -76,4 +76,4 @@ Long short-term memory unit architecture, developed to estimate a real-time quan
 Convolutional neural network layer architecture designed for LLO-based CV-QKD across satellite-Earth channels. Reference pulse intensity distributions \(I\) at the receiver are used as input to the network, which are then mapped to output estimated phase wavefront corrections \(\hat{\Phi}\).
 </figcaption>
 </figure>
-{% endcomment &}
+{% endcomment %}
