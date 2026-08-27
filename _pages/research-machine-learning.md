@@ -32,19 +32,28 @@ Expand into several paragraphs.
 See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
 
 <figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/lstm_single_col.svg"
-     alt="lstm-phase-estimation"
-     style="width: 100%; height: auto; border-radius: var(--radius);">
-<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
-LSTM unit architecture, developed to estimate a real-time quantum signal phase error \Delta\phi_S by taking a reference pulse phase error \Delta\phi_R time-series as input.
-</figcaption>
-</figure>
-
-<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/transformer_encoder_seidr_horizontal_pl.svg"
      alt="tnn-seidr"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
-TNN architecture designed for hybrid mode-selective photonic lantern wavefront estimation. Sequence of previous \M_t lantern intensities taken as input, then a wavefront estimate is output for the current time-step \t. Transformer layer architecture is depicted in the light blue block, while the attention head architecture is depicted in the yellow block.
+Transformer neural network architecture designed for hybrid mode-selective photonic lantern wavefront estimation. Sequence of previous \(M_t\) lantern intensities taken as input, then a wavefront estimate is output for the current time-step \(t\). Transformer layer architecture is depicted in the light blue block, while the attention head architecture is depicted in the yellow block.
+</figcaption>
+</figure>
+
+<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/lstm_single_col.svg"
+     alt="lstm-phase-estimation"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Long short-term memory unit architecture, developed to estimate a real-time quantum signal phase error \(\Delta\phi_S\) by taking a reference pulse phase error \(\Delta\phi_R\) time-series as input, for LLO-based CV-QKD across satellite-Earth channels.
+</figcaption>
+</figure>
+
+<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/phase_wavefront_nn_example.svg"
+     alt="cnn-wf"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Convolutional neural network layer architecture designed for LLO-based CV-QKD across satellite-Earth channels. Reference pulse intensity distributions \(I\) at the receiver are used as input to the network, which are then mapped to output estimated phase wavefront corrections \(\hat{\Phi}\).
 </figcaption>
 </figure>
