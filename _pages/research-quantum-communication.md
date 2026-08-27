@@ -17,17 +17,30 @@ My work investigates how machine learning (ML) can assist state-of-the-art conti
 ### Select Papers
 - [Relative wavefront error correction over a 2.4-km free-space optical link via machine learning (2026)]({{ site.url }}{{ site.baseurl }}/papers/Long2026_-_Relative wavefront error correction over a 2.4-km free-space optical link via machine learning.pdf)
 - [Quantum Wavefront Correction Via Machine Learning for Satellite‐to‐Earth CV‐QKD (2026)]({{ site.url }}{{ site.baseurl }}/papers/Long2026_-_Quantum Wavefront Correction Via Machine Learning for Satellite‐to‐Earth CV‐QKD.pdf)
+- [A Survey of Machine Learning Assisted Continuous-Variable Quantum Key Distribution (2023)]({{ site.url }}{{ site.baseurl }}/papers/Long2023_-_A Survey of Machine Learning Assisted Continuous-Variable Quantum Key Distribution.pdf)
 - [Machine Learning for Phase Estimation in Satellite-to-Earth Quantum Communication (2025)]({{ site.url }}{{ site.baseurl }}/papers/Long2025_-_Machine Learning for Phase Estimation in Satellite-to-Earth Quantum Communication.pdf)
 - [Phase Correction using Deep Learning for Satellite-to-Ground CV-QKD (2024)]({{ site.url }}{{ site.baseurl }}/papers/Long2024_-_Phase Correction using Deep Learning for Satellite-to-Ground CV-QKD.pdf)
-- [A Survey of Machine Learning Assisted Continuous-Variable Quantum Key Distribution (2023)]({{ site.url }}{{ site.baseurl }}/papers/Long2023_-_A Survey of Machine Learning Assisted Continuous-Variable Quantum Key Distribution.pdf)
 
 See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
 
 ### Figures
 
 {% comment %}
-<figure style="margin: 0 0 var(--space-6) 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/FIGURE.svg" alt="ALT TEXT" style="width: 100%; height: auto; border-radius: var(--radius);">
-<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">Caption.</figcaption>
+<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/kernel_nulling_spie_2.svg"
+     alt="seidr-chip"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Kernel-nulling chip schematic, with four input beams passing through the VLTI and Asgard to Seidr. The nulling stage has one bright output and three dark outputs, the sensing stage produces six asymmetric dark outputs, which are used to construct three kernel observables.
+</figcaption>
+</figure>
+
+<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/hms-pl6_transfer_matrix_wl=1.55_rms=8.20_ds=0.25_dz=2_rv=1_xyw=320_zlen=50000_tr=20_cut.svg"
+     alt="seidr-hmspl"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+6-core hybrid mode-selective photonic lantern intensity (left) and phase (right) transfer matrices, representing the transition from the input LP modes to the output single-mode fibre cores. The hybrid mode selectivity can be seen with the ~100% transmission of the LP01 mode to the central core 1.
+</figcaption>
 </figure>
 {% endcomment %}
