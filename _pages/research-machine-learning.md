@@ -31,6 +31,8 @@ Expand into several paragraphs.
 
 See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
 
+### Figures
+
 <figure markdown="0"
         style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/transformer_encoder_seidr_horizontal_pl.svg"
