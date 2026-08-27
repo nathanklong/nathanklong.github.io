@@ -41,6 +41,15 @@ Transformer neural network architecture designed for hybrid mode-selective photo
 </figure>
 
 <figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/seidr_wf_grid_true_tnn_cnn_kolmogorov_contig_preds.svg"
+     alt="tnn-seidr-preds"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Example wavefronts for temporal Von Karman seeing, uncorrected and estimated using a transformer and convolutional neural network.
+</figcaption>
+</figure>
+
+<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/lstm_single_col.svg"
      alt="lstm-phase-estimation"
      style="width: 100%; height: auto; border-radius: var(--radius);">
