@@ -31,10 +31,20 @@ Expand into several paragraphs.
 
 See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
 
-### Figures
-{% comment %}
-<figure style="margin: 0 0 var(--space-6) 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/FIGURE.svg" alt="ALT TEXT" style="width: 100%; height: auto; border-radius: var(--radius);">
-<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">Caption.</figcaption>
+<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/lstm_single_col.svg"
+     alt="lstm-phase-estimation"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+LSTM unit architecture, developed to estimate a real-time quantum signal phase error \Delta\phi_S by taking a reference pulse phase error \Delta\phi_R time-series as input.
+</figcaption>
 </figure>
-{% endcomment %}
+
+<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/transformer_encoder_seidr_horizontal_pl.svg"
+     alt="tnn-seidr"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+TNN architecture designed for hybrid mode-selective photonic lantern wavefront estimation. Sequence of previous \M_t lantern intensities taken as input, then a wavefront estimate is output for the current time-step \t. Transformer layer architecture is depicted in the light blue block, while the attention head architecture is depicted in the yellow block.
+</figcaption>
+</figure>
