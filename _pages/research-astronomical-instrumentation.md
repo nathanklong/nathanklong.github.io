@@ -42,7 +42,8 @@ See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibl
 
 ### Figures
 
-<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/kernel_nulling_spie_2.svg"
      alt="seidr-chip"
      style="width: 100%; height: auto; border-radius: var(--radius);">
@@ -51,7 +52,10 @@ Kernel-nulling chip schematic, with four input beams passing through the VLTI an
 </figcaption>
 </figure>
 
-<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/hms-pl6_transfer_matrix_wl=1.55_rms=8.20_ds=0.25_dz=2_rv=1_xyw=320_zlen=50000_tr=20_cut.svg"
      alt="seidr-hmspl"
      style="width: 100%; height: auto; border-radius: var(--radius);">
