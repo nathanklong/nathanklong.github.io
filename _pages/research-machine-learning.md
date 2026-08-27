@@ -31,7 +31,8 @@ Expand into several paragraphs.
 
 See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
 
-<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/transformer_encoder_seidr_horizontal_pl.svg"
      alt="tnn-seidr"
      style="width: 100%; height: auto; border-radius: var(--radius);">
@@ -40,7 +41,10 @@ Transformer neural network architecture designed for hybrid mode-selective photo
 </figcaption>
 </figure>
 
-<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/seidr_wf_grid_true_tnn_cnn_kolmogorov_contig_preds.svg"
      alt="tnn-seidr-preds"
      style="width: 100%; height: auto; border-radius: var(--radius);">
@@ -49,7 +53,10 @@ Example wavefronts for temporal Von Karman seeing, uncorrected and estimated usi
 </figcaption>
 </figure>
 
-<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/lstm_single_col.svg"
      alt="lstm-phase-estimation"
      style="width: 100%; height: auto; border-radius: var(--radius);">
@@ -58,6 +65,9 @@ Long short-term memory unit architecture, developed to estimate a real-time quan
 </figcaption>
 </figure>
 
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+{% comment %}
 <figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/phase_wavefront_nn_example.svg"
      alt="cnn-wf"
@@ -66,3 +76,4 @@ Long short-term memory unit architecture, developed to estimate a real-time quan
 Convolutional neural network layer architecture designed for LLO-based CV-QKD across satellite-Earth channels. Reference pulse intensity distributions \(I\) at the receiver are used as input to the network, which are then mapped to output estimated phase wavefront corrections \(\hat{\Phi}\).
 </figcaption>
 </figure>
+{% endcomment &}
