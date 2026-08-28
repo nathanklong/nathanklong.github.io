@@ -38,6 +38,18 @@ Experimental setup for preparation and measurement of a reference and signal in 
 
 <figure markdown="0"
         style="max-width: 550px; margin: 0 auto 3rem auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/phase_screen_model_4.svg"
+     alt="tnn-seidr"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Satellite-to-Earth phase screen model for channel length 𝐿𝑐ℎ and azimuth angle \(\theta_z\). Phase screens (dashed blue lines) simulate beam distortion using the scintillation index \(\simga_{I_j}^2\) and Fried parameter \(r\theta_j\), which are placed at the center of an atmospheric volume bounded by \(h_{j-1}\) and \(h_j\).
+</figcaption>
+</figure>
+
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/quadratures.svg"
      alt="tnn-seidr"
      style="width: 100%; height: auto; border-radius: var(--radius);">
