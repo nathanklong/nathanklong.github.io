@@ -60,6 +60,18 @@ Example wavefronts for temporal Von Karman seeing, uncorrected and estimated usi
 
 <figure markdown="0"
         style="max-width: 550px; margin: 0 auto 3rem auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/ddphi_mn_est_var_bar.svg"
+     alt="lstm-phase-estimation"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Correction variance \(\Var (\Delta\tilde{\phi}_{mn,S} − \phi_{mn,S})\) (post-correction, red bars) versus default variance (\Delta {\phi}_{mn,R} − \phi_{mn,S})\) (pre-correction, blue bars) for (a) \(N\=10\), (b) \(N\=30\), and (c) \(N\=50\). The purple sections show where the two variances overlap.
+</figcaption>
+</figure>
+
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/lstm_single_col.svg"
      alt="lstm-phase-estimation"
      style="width: 100%; height: auto; border-radius: var(--radius);">
@@ -68,15 +80,5 @@ Long short-term memory unit architecture, developed to estimate a real-time quan
 </figcaption>
 </figure>
 
-<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+<!-- <hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;"> -->
 
-{% comment %}
-<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/phase_wavefront_nn_example.svg"
-     alt="cnn-wf"
-     style="width: 100%; height: auto; border-radius: var(--radius);">
-<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
-Convolutional neural network layer architecture designed for LLO-based CV-QKD across satellite-Earth channels. Reference pulse intensity distributions \(I\) at the receiver are used as input to the network, which are then mapped to output estimated phase wavefront corrections \(\hat{\Phi}\).
-</figcaption>
-</figure>
-{% endcomment %}
