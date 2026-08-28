@@ -4,7 +4,7 @@ layout: gridlay
 permalink: /research/quantum-communication/
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/wiley_aqt_graphic_2.svg" alt="Quantum satellite-Earth link" style="width: 100%; height: auto; border-radius: var(--radius); margin-bottom: var(--space-6);">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/wiley_aqt_graphic_2.svg" alt="Quantum satellite-Earth link" style="max-width: 550px; border-radius: var(--radius); margin-bottom: var(--space-6);">
 
 ## Quantum Communication
 
@@ -38,7 +38,7 @@ Experimental setup for preparation and measurement of a reference and signal in 
 <hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
 
 <figure markdown="0"
-        style="max-width: 550px; margin: 0 auto 3rem auto;">
+        style="max-width: 450px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/phase_screen_model_4.svg"
      alt="tnn-seidr"
      style="width: 100%; height: auto; border-radius: var(--radius);">
@@ -63,7 +63,7 @@ Coherent states encoded in electric field quadratures for (a) GMCS protocol show
 
 <figure markdown="0"
         style="max-width: 550px; margin: 0 auto 3rem auto;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/"
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/Review_Mind_Map_4.svg"
      alt="tnn-seidr-preds"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
@@ -74,7 +74,7 @@ CV-QKD protocol, where my work focuses on the measurement stage, where homodyne/
 <hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
 
 <figure markdown="0"
-        style="max-width: 550px; margin: 0 auto 3rem auto;">
+        style="max-width: 450px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/wfs_lstm_cvqkd_circuit.svg"
      alt="tnn-seidr-preds"
      style="width: 100%; height: auto; border-radius: var(--radius);">
