@@ -34,13 +34,38 @@ Experimental setup for preparation and measurement of a reference and signal in 
 </figcaption>
 </figure>
 
-{% comment %}
-<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/hms-pl6_transfer_matrix_wl=1.55_rms=8.20_ds=0.25_dz=2_rv=1_xyw=320_zlen=50000_tr=20_cut.svg"
-     alt="seidr-hmspl"
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/quadratures.svg"
+     alt="tnn-seidr"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
-6-core hybrid mode-selective photonic lantern intensity (left) and phase (right) transfer matrices, representing the transition from the input LP modes to the output single-mode fibre cores. The hybrid mode selectivity can be seen with the ~100% transmission of the LP01 mode to the central core 1.
+Coherent states encoded in electric field quadratures for (a) GMCS protocol showing the coherent state amplitude \(\alpha\) and phase \(\theta\), (b) DM quadrature PSK protocol, and (c) DM 8PSK protocol. The size of the circles represent the size of the vacuum noise.
 </figcaption>
 </figure>
-{% endcomment %}
+
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/"
+     alt="tnn-seidr-preds"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+CV-QKD protocol, where my work focuses on the measurement stage, where homodyne/heterodyne measurements of reference pulses are used to estimate relative phase errors between the reference pulses and quantum signals. Later work expanded to wavefront measurements using a multi-plane light converter, then estimating relative wavefront errors between the reference pulses and quantum signals.
+</figcaption>
+</figure>
+
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/wfs_lstm_cvqkd_circuit.svg"
+     alt="tnn-seidr-preds"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Schematic outlining the preparation and measurement of coherent states with quantum signal phase error \(\Delta\phi_S\) estimation. L is a laser source, BS is a beam splitter, AM is an amplitude modulator, PM is a phase modulator, OA is an optical attenuator, PBC is a polarized beam combiner, PBS is a polarized beam splitter, Het is a heterodyne detector, Hom is a homodyne detector, PS is a phase shifter, DL is a delay line, and NN is the phase estimation neural network.
+</figcaption>
+</figure>
