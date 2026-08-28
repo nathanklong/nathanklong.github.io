@@ -35,7 +35,7 @@ See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibl
 <figure markdown="0"
         style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/SSE_taxonomy_figure.svg"
-     alt="tnn-seidr"
+     alt="sse-taxonomy"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
 Taxonomy of ship-as-a-wave-buoy sea state estimation (SSE) methods.
@@ -47,10 +47,10 @@ Taxonomy of ship-as-a-wave-buoy sea state estimation (SSE) methods.
 <figure markdown="0"
         style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/coordinate_systems3.svg"
-     alt="fso-experiments"
+     alt="wave-coords"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
-The three coordinate systems used for relative wave direction to USV: wave-relative, north-east-down, and body-fixed.
+The three coordinate systems used to evaluate wave direction: wave-relative, north-east-down, and body-fixed.
 </figcaption>
 </figure>
 
@@ -58,8 +58,8 @@ The three coordinate systems used for relative wave direction to USV: wave-relat
 
 <figure markdown="0"
         style="max-width: 550px; margin: 0 auto 3rem auto;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/Hs_component_residuals_polar_fix_u.svg"
-     alt="fso-experiments"
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/Hs_component_residuals_polar_fix_u.png"
+     alt="height-est"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
 Residual wave height estimation plots polar plots for wave height estimations \(\mathrm{H_s}\) with a fixed USV speed \(\mathrm{U_\pi}\) of 2.5 m/s and varying USV headings \(\mathrm{\mu_{h}}\).
