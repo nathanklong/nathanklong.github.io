@@ -64,7 +64,7 @@ Example wavefronts for temporal Von Karman seeing, uncorrected and estimated usi
      alt="lstm-phase-estimation"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
-Correction variance \(Var (\Delta\tilde{\phi}_{mn,S} − \phi_{mn,S})\) (post-correction, red bars) versus default variance \(Var (\Delta {\phi}_{mn,R} − \phi_{mn,S})\) (pre-correction, blue bars) for (a) \(N=10\), (b) \(N=30\), and (c) \(N=50\). The purple sections show where the two variances overlap.
+Correction variance \(mathrm{Var} (\Delta\tilde{\phi}_{mn,S} − \phi_{mn,S})\) (post-correction, red bars) versus default variance \(\mathrm{Var} (\Delta {\phi}_{mn,R} − \phi_{mn,S})\) (pre-correction, blue bars) for (a) \(N=10\), (b) \(N=30\), and (c) \(N=50\) Hermite-Gaussian mode phase corrections. The purple sections show where the two variances overlap.
 </figcaption>
 </figure>
 
