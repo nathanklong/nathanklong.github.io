@@ -28,10 +28,40 @@ Given the information-dense statistical representation of vessel motion response
 
 See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
 
+
+
 ### Figures
-{% comment %}
-<figure style="margin: 0 0 var(--space-6) 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/FIGURE.svg" alt="ALT TEXT" style="width: 100%; height: auto; border-radius: var(--radius);">
-<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">Caption.</figcaption>
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/SSE_taxonomy_figure.svg"
+     alt="tnn-seidr"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Taxonomy of ship-as-a-wave-buoy sea state estimation (SSE) methods.
+</figcaption>
 </figure>
-{% endcomment %}
+
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/coordinate_systems3.svg"
+     alt="fso-experiments"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+The three coordinate systems used for relative wave direction to USV: wave-relative, north-east-down, and body-fixed.
+</figcaption>
+</figure>
+
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/Hs_component_residuals_polar_fix_u.svg"
+     alt="fso-experiments"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Residual wave height estimation plots polar plots for wave height estimations \(\mathrm{H_s}\) with a fixed USV speed \(\mathrm{U_\pi}\) of 2.5 m/s and varying USV headings \(\mathrm{\mu_{h}}\).
+</figcaption>
+</figure>
