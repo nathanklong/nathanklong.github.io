@@ -38,7 +38,7 @@ Experimental setup for preparation and measurement of a reference and signal in 
 <hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
 
 <figure markdown="0"
-        style="max-width: 450px; margin: 0 auto 3rem auto;">
+        style="max-width: 350px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/phase_screen_model_4.svg"
      alt="tnn-seidr"
      style="width: 100%; height: auto; border-radius: var(--radius);">
@@ -74,7 +74,7 @@ CV-QKD protocol, where my work focuses on the measurement stage, where homodyne/
 <hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
 
 <figure markdown="0"
-        style="max-width: 450px; margin: 0 auto 3rem auto;">
+        style="max-width: 350px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/wfs_lstm_cvqkd_circuit.svg"
      alt="tnn-seidr-preds"
      style="width: 100%; height: auto; border-radius: var(--radius);">
