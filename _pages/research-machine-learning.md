@@ -7,10 +7,11 @@ permalink: /research/machine-learning/
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/transformer_encoder_seidr_horizontal_pl.svg" alt="Transformer encoder architecture for photonic lantern wavefront estimation" style="width: 100%; height: auto; border-radius: var(--radius); margin-bottom: var(--space-6);">
 
 ## Machine Learning
-Neural network architectures for temporal and spatial phase estimation —
-CNN and transformer models mapping photonic lantern core power measurements to
-wavefronts, the training data pipeline, and performance across noise cases.
-Expand into several paragraphs.
+I began working on machine learning when I joined the Trusted Autonomy group at the University of New South Wales, Canberra, under the guidance of Professor Hussein Abbass. My first work on developing neural networks was for the purpose of sea state estimation using the ship-as-a-wave-buoy analogy. I designed simple multi-layer perceptron networks to take uninhabited surface vessel response spectral data to different wave properties as input, then output an estimate of the wave height, frequency, and direction, enabling in-situ, real-time sea state estimation. 
+
+I then worked on *Machine Learning Assisted Continuous-Variable Quantum Communication* for my PhD, with a focus on phase estimation for satellite-Earth quantum key distribution. I developed encoder-decoder convolutional neural networks for quantum signal wavefront estimation across turbulent satellite-to-Earth channels using reference pulse intensity distributions as input (phase diversity). I developed long short-term neural networks for relative phase error estimation between quantum signals and reference pulses across turbulent satellite-to-Earth channels. I then developed encoder transformer neural networks for relative wavefront error estimation between quantum signals and reference pulses across turbulent satellite-to-Earth channels using a multi-plane light converter (MPLC) to measure the wavefronts in the Hermite-Gaussian basis. I progressed this work to an experimental campaign at the University of Western Australia, where we transmitted polarisation-multiplexed optical signals across a 2.4 km free-space optical link. We measured the relative wavefront errors between them using an MPLC, then I implemented my transformer architecture to estimate them using the reference pulse MPLC measurements as input.
+
+In my current role as a Postdoctoral Researcher in Astrophotonics and Astronomical Instrumentation, I am currently developing transformer and convolutional neural network architectures for the purpose of wavefront estimation using photonic lanterns. Photonic lanterns are optical waveguides, which transform point-spread function injected at a multi-mode fibre end to a series of single-mode fibre core outputs. The intensities measured at the output cores are fed into the neural networks, which are then mapped to the pupil-plane wavefront errors. The architectures are therefore designed to learn spatio-temporal transformations.
 
 ### Select Papers
 
