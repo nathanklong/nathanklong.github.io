@@ -61,7 +61,7 @@ Example wavefronts for temporal Von Karman seeing, uncorrected and estimated usi
 <figure markdown="0"
         style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/ddphi_mn_est_var_bar.svg"
-     alt="lstm-phase-estimation"
+     alt="tnn-mplc"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
 Transformer neural network relative wavefront error estimation. Correction variance \(\mathrm{Var} (\Delta\tilde{\phi}_{mn,S} − \phi_{mn,S})\) (post-correction, red bars) versus default variance \(\mathrm{Var} (\Delta {\phi}_{mn,R} − \phi_{mn,S})\) (pre-correction, blue bars) for (a) \(N=10\), (b) \(N=30\), and (c) \(N=50\) Hermite-Gaussian mode phase corrections. The purple sections show where the two variances overlap.
