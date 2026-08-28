@@ -25,7 +25,8 @@ See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibl
 
 ### Figures
 
-<figure markdown="0" style="margin: 0 0 var(--space-6) 0;">
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/system_diagram_nkl_map.svg"
      alt="fso-experiments"
      style="width: 100%; height: auto; border-radius: var(--radius);">
@@ -42,7 +43,7 @@ Experimental setup for preparation and measurement of a reference and signal in 
      alt="tnn-seidr"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
-Satellite-to-Earth phase screen model for channel length 𝐿𝑐ℎ and azimuth angle \(\theta_z\). Phase screens (dashed blue lines) simulate beam distortion using the scintillation index \(\simga_{I_j}^2\) and Fried parameter \(r\theta_j\), which are placed at the center of an atmospheric volume bounded by \(h_{j-1}\) and \(h_j\).
+Satellite-to-Earth phase screen model for channel length \(L_{ch}\ and azimuth angle \(\theta_z\). Phase screens (dashed blue lines) simulate beam distortion using the scintillation index \(\sigma_{I_j}^2\) and Fried parameter \(r\theta_j\), which are placed at the center of an atmospheric volume bounded by \(h_{j-1}\) and \(h_j\).
 </figcaption>
 </figure>
 
