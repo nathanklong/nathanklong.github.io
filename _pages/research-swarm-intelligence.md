@@ -9,6 +9,8 @@ permalink: /research/swarm-intelligence/
 ## Swarm Intelligence
 From 2019 to 2021, I worked on swarm shepherding as a bio-inspired swarm robotics guidance approach, as a member of the Trusted Autonomy group at the University of New South Wales, Canberra.
 
+<hr style="border: 0; border-top: 2px solid #555; margin: 2rem 0;">
+
 The simultaneous control of multiple coordinated robotic agents represents an elaborate problem. If solved, however, the interaction between the agents can lead to solutions to sophisticated problems. The concept of swarming, inspired by nature, can be described as the emergence of complex system-level behaviors from the interactions of relatively elementary agents. Due to the effectiveness of solutions found in nature, bio-inspired swarming-based control techniques are receiving a lot of attention in robotics. One method, known as swarm shepherding, is founded on the sheep herding behavior exhibited by sheepdogs, where a swarm of relatively simple agents are governed by a shepherd (or shepherds) which is responsible for high-level guidance and planning. Many studies have been conducted on shepherding as a control technique, ranging from the replication of sheep herding via simulation, to the control of uninhabited vehicles and robots for a variety of applications.
 
 ### Select Papers
