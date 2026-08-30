@@ -10,9 +10,9 @@ permalink: /research/autonomous-vehicle-guidance/
 
 In 2017, I undertook a combined Honours' research project and internship at ISAE-Supaero in Toulouse, France. My project focused on *Regenerative Dynamic Soaring*, where an uninhabited aerial vehicle mimics the flight pattern of Southern Albatrosses (known as Dynamic Soaring) to perpetually glide using wind vectors over the Southern Ocean. Taking this idea one step further, Regenerative Dynamic Soaring uses a windmilling propeller to generate power from the wind vectors, recharging an internal battery.
 
-During my work as a Naval Architect, I investigated multi-vessel uninhabited surface vessel guidance for the purpose of *Sea State Estimation* using the ship-as-a-wave buoy analogy...***
+From 2019 to 2021, I worked as a Naval Architect, where I investigated multi-vessel uninhabited surface vessel (USV) guidance for the purpose of *Sea State Estimation* using the ship-as-a-wave buoy analogy. I modelled the temporal dynamics of the USVs' motion response to different wave inputs, then designed neural networks to map their relationship. I analysed relative trajectories of multiple USVs doing multi-vessel sea state estimation, where wave height, frequency, and direction estimation performance improved with diverse headings, as opposed to common headings.
 
-Further, I worked on *Swarm Shepherding* as a swarm-robotics guidance approach...***
+Further, I worked on *Swarm Shepherding* as a swarm-robotics guidance approach with the Trusted Autonomy group at the University of New South Wales, Canberra. Essentially, shepherding uses the behaviours of sheep agents being herded by a sheep dog (the shepherd). The 'simple' sheep agents are unaware of an objective, their behaviour is emergent. The shepherd understands the objective, manipulating the behaviour of the sheep to achieve the objective via their collective emergent response. Shepherding has several potential applications, ranging from the actual herding of farm animals using autonomous vehicles, to crowd control modelling and simulation.
 
 
 
