@@ -15,9 +15,8 @@ In my current role as a Postdoctoral Researcher in Astrophotonics and Astronomic
 
 ### Select Papers
 
-{% comment %}
 #### Phase Estimation (Photonic Lantern)
-{% endcomment %}
+- [Overcoming the low signal-to-noise problem for hybrid mode-selective photonic lantern-based wavefront correction using machine learning (2026)]({{ site.url }}{{ site.baseurl }}/papers/Long2026_-_Overcoming the low signal-to-noise problem for hybrid mode-selective photonic lantern-based wavefront correction using machine learning.pdf)
 
 #### Phase Estimation (Continuous-Variable Quantum Communication)
 - [Relative wavefront error correction over a 2.4-km free-space optical link via machine learning (2026)]({{ site.url }}{{ site.baseurl }}/papers/Long2026_-_Relative wavefront error correction over a 2.4-km free-space optical link via machine learning.pdf)
