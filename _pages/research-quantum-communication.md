@@ -28,7 +28,7 @@ My work investigates how machine learning (ML) can assist state-of-the-art conti
 - [Machine Learning for Phase Estimation in Satellite-to-Earth Quantum Communication (2025)]({{ site.url }}{{ site.baseurl }}/papers/Long2025_-_Machine Learning for Phase Estimation in Satellite-to-Earth Quantum Communication.pdf)
 - [Phase Correction using Deep Learning for Satellite-to-Ground CV-QKD (2024)]({{ site.url }}{{ site.baseurl }}/papers/Long2024_-_Phase Correction using Deep Learning for Satellite-to-Ground CV-QKD.pdf)
 
-See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
+See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography.
 
 ### Figures
 
