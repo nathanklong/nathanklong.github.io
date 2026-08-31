@@ -14,7 +14,7 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/asgard_suite_2.svg" class="research-thumb" alt="wavefronts">
 <div class="research-body">
 <h4 class="research-title">Astronomical Instrumentation</h4>
-<p class="research-desc">Development of Astronomical Instrumentation... The Photonic Wavefront Imager uses an oversampled photonic lantern.</p>
+<p class="research-desc">Development of Seidr, an H-band kernel-nulling instrument at the VLTI, and the Photonic Wavefront Imager, an oversampled photonic lantern for both science and wavefront correction at the Magellan Clay telescope. </p>
 </div>
 </a>
 </div>
@@ -24,7 +24,7 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/wiley_aqt_graphic_3.svg" class="research-thumb" alt="quantum-satellite">
 <div class="research-body">
 <h4 class="research-title">Quantum Communication</h4>
-<p class="research-desc">Quantum Communication for satellite-Earth links.</p>
+<p class="research-desc">Continuous-variable Quantum Communication across turbulent satellite-Earth links.</p>
 </div>
 </a>
 </div>
@@ -54,7 +54,7 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/coordinate_systems3.svg" class="research-thumb" alt="sse">
 <div class="research-body">
 <h4 class="research-title">Sea State Estimation</h4>
-<p class="research-desc">Using the boat-as-a-wavebuoy analogy.</p>
+<p class="research-desc">Sea State Estimation using the boat-as-a-wavebuoy analogy.</p>
 </div>
 </a>
 </div>
@@ -64,7 +64,7 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/DT18_Closed_Maneuvers.svg" class="research-thumb" alt="regen_soaring">
 <div class="research-body">
 <h4 class="research-title">Autonomous Vehicle Guidance</h4>
-<p class="research-desc">Regenerative dynamic soaring and uninhabited surface vessel dynamics.</p>
+<p class="research-desc">Regenerative dynamic soaring, multi-uninhabited surface vessel guidance, and swarm shepherding.</p>
 </div>
 </a>
 </div>
