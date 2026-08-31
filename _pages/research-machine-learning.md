@@ -4,8 +4,15 @@ layout: gridlay
 permalink: /research/machine-learning/
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/transformer_encoder_seidr_horizontal_pl.svg" alt="Transformer encoder architecture for photonic lantern wavefront estimation" style="width: 100%; height: auto; border-radius: var(--radius); margin-bottom: var(--space-6);">
-
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/transformer_encoder_seidr_horizontal_pl.svg" 
+        alt="Transformer encoder architecture for photonic lantern wavefront estimation"
+        style="width: 100%;
+            max-width: 550px;
+            height: auto;
+            display: block;
+            margin: 0 auto var(--space-6) auto;
+            border-radius: var(--radius);">
+            
 ## Machine Learning
 I began working on machine learning when I joined the Trusted Autonomy group at the University of New South Wales, Canberra, under the guidance of Professor Hussein Abbass. My first work on developing neural networks was for the purpose of sea state estimation using the ship-as-a-wave-buoy analogy. I designed simple multi-layer perceptron networks to take uninhabited surface vessel response spectral data to different wave properties as input, then output an estimate of the wave height, frequency, and direction, enabling in-situ, real-time sea state estimation. 
 
