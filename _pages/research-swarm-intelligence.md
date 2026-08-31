@@ -19,7 +19,7 @@ The simultaneous control of multiple coordinated robotic agents represents an el
 - [A Comprehensive Review of Shepherding as a Bio-Inspired Swarm-Robotics Guidance Approach (2020)]({{ site.url }}{{ site.baseurl }}/papers/Long2020_-_A Comprehensive Review of Shepherding as a Bio-Inspired Swarm-Robotics Guidance Approach.pdf)
 - [Multi-vessel Sea State Estimation Utilising Swarm Shepherding (2019)]({{ site.url }}{{ site.baseurl }}/papers/Long2019_-_Multi-vessel Sea State Estimation Utilising Swarm Shepherding.pdf)
 
-See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
+See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography.
 
 ### Figures
 
