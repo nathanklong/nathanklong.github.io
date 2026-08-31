@@ -4,7 +4,14 @@ layout: gridlay
 permalink: /research/quantum-communication/
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/wiley_aqt_graphic_2.svg" alt="Quantum satellite-Earth link" style="max-width: 550px; border-radius: var(--radius); margin-bottom: var(--space-6);">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/wiley_aqt_graphic_2.svg" 
+        alt="Quantum satellite-Earth link"
+        style="width: 100%;
+            max-width: 550px;
+            height: auto;
+            display: block;
+            margin: 0 auto var(--space-6) auto;
+            border-radius: var(--radius);">
 
 ## Quantum Communication
 
@@ -40,7 +47,7 @@ Experimental setup for preparation and measurement of a reference and signal in 
 <figure markdown="0"
         style="max-width: 350px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/phase_screen_model_4.svg"
-     alt="tnn-seidr"
+     alt="sat-earth"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
 Satellite-to-Earth phase screen model for channel length \(L_{ch}\) and azimuth angle \(\theta_z\). Phase screens (dashed blue lines) simulate beam distortion using the scintillation index \(\sigma_{I_j}^2\) and Fried parameter \(r\theta_j\), which are placed at the center of an atmospheric volume bounded by \(h_{j-1}\) and \(h_j\).
@@ -52,7 +59,7 @@ Satellite-to-Earth phase screen model for channel length \(L_{ch}\) and azimuth 
 <figure markdown="0"
         style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/quadratures.svg"
-     alt="tnn-seidr"
+     alt="coherent-states"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
 Coherent states encoded in electric field quadratures for (a) GMCS protocol showing the coherent state amplitude \(\alpha\) and phase \(\theta\), (b) DM quadrature PSK protocol, and (c) DM 8PSK protocol. The size of the circles represent the size of the vacuum noise.
@@ -64,7 +71,7 @@ Coherent states encoded in electric field quadratures for (a) GMCS protocol show
 <figure markdown="0"
         style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/Review_Mind_Map_4.svg"
-     alt="tnn-seidr-preds"
+     alt="cvqkd-protocol"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
 CV-QKD protocol, where my work focuses on the measurement stage, where homodyne/heterodyne measurements of reference pulses are used to estimate relative phase errors between the reference pulses and quantum signals. Later work expanded to wavefront measurements using a multi-plane light converter, then estimating relative wavefront errors between the reference pulses and quantum signals.
@@ -76,7 +83,7 @@ CV-QKD protocol, where my work focuses on the measurement stage, where homodyne/
 <figure markdown="0"
         style="max-width: 350px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/wfs_lstm_cvqkd_circuit.svg"
-     alt="tnn-seidr-preds"
+     alt="signal-measurement"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
 Schematic outlining the preparation and measurement of coherent states with quantum signal phase error \(\Delta\phi_S\) estimation. L is a laser source, BS is a beam splitter, AM is an amplitude modulator, PM is a phase modulator, OA is an optical attenuator, PBC is a polarized beam combiner, PBS is a polarized beam splitter, Het is a heterodyne detector, Hom is a homodyne detector, PS is a phase shifter, DL is a delay line, and NN is the phase estimation neural network.
