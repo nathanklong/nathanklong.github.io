@@ -4,7 +4,14 @@ layout: gridlay
 permalink: /research/swarm-intelligence/
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/The_Great_Wave_of_Shepherding.jpg" alt="Swarm shepherding" style="width: 100%; height: auto; border-radius: var(--radius); margin-bottom: var(--space-6);">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/The_Great_Wave_of_Shepherding.jpg" 
+        alt="Swarm shepherding" 
+        style="width: 100%;
+            max-width: 550px;
+            height: auto;
+            display: block;
+            margin: 0 auto var(--space-6) auto;
+            border-radius: var(--radius);">
 
 ## Swarm Intelligence
 From 2019 to 2021, I worked on swarm shepherding as a bio-inspired swarm robotics guidance approach, as a member of the Trusted Autonomy group at the University of New South Wales, Canberra.
@@ -38,7 +45,7 @@ Shepherding mind map. The inner circle is used to categorize the literature as s
 <figure markdown="0"
         style="max-width: 550px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/Strombom_Illustration.svg"
-     alt="wave-coords"
+     alt="shepherding"
      style="width: 100%; height: auto; border-radius: var(--radius);">
 <figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
 Schematic outlining shepherding heuristic, where the circles represents radii of influence, and arrows represent vectors. (a) The shepherd approaches the driving position. (b) The shepherd repels a sheep, which is also attracted to its centre of mass. (c) The sheep repels another sheep, which is also attracted to their centre of mass, while the shepherd moves to the new driving position. (d) The shepherd repels two sheep, which are also both attracted to their centre of mass.
