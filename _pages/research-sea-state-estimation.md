@@ -4,7 +4,14 @@ layout: gridlay
 permalink: /research/sea-state-estimation/
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/coordinate_systems3.svg" alt="Boat-as-a-wavebuoy coordinate systems" style="max-width: 550px; border-radius: var(--radius); margin-bottom: var(--space-6);">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/coordinate_systems3.svg" 
+        alt="Boat-as-a-wavebuoy coordinate systems" 
+        style="width: 100%;
+            max-width: 550px;
+            height: auto;
+            display: block;
+            margin: 0 auto var(--space-6) auto;
+            border-radius: var(--radius);">
 
 ## Sea State Estimation
 
