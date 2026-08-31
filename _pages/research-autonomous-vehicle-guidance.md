@@ -4,7 +4,14 @@ layout: gridlay
 permalink: /research/autonomous-vehicle-guidance/
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/DT18_Closed_Maneuvers.svg" alt="Closed dynamic soaring maneuvers" style="width: 100%; height: auto; border-radius: var(--radius); margin-bottom: var(--space-6);">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/DT18_Closed_Maneuvers.svg" 
+        alt="Closed dynamic soaring maneuvers" 
+        style="width: 100%;
+            max-width: 550px;
+            height: auto;
+            display: block;
+            margin: 0 auto var(--space-6) auto;
+            border-radius: var(--radius);">
 
 ## Autonomous Vehicle Guidance
 
