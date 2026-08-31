@@ -4,7 +4,14 @@ layout: gridlay
 permalink: /research/astronomical-instrumentation/
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/asgard_suite_2.svg" alt="vlti" style="width: 100%; height: auto; border-radius: var(--radius); margin-bottom: var(--space-6);">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/asgard_suite_2.svg" 
+        alt="vlti"
+        style="width: 100%;
+            max-width: 550px;
+            height: auto;
+            display: block;
+            margin: 0 auto var(--space-6) auto;
+            border-radius: var(--radius);">
 
 ## Astronomical Instrumentation
 
@@ -43,7 +50,7 @@ See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibl
 ### Figures
 
 <figure markdown="0"
-        style="max-width: 550px; margin: 0 auto 3rem auto;">
+        style="max-width: 650px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/kernel_nulling_spie_2.svg"
      alt="seidr-chip"
      style="width: 100%; height: auto; border-radius: var(--radius);">
