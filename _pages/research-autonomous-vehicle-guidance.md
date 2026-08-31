@@ -36,9 +36,25 @@ Further, I worked on *Swarm Shepherding* as a swarm-robotics guidance approach w
 See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
 
 ### Figures
-{% comment %}
-<figure style="margin: 0 0 var(--space-6) 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/FIGURE.svg" alt="ALT TEXT" style="width: 100%; height: auto; border-radius: var(--radius);">
-<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">Caption.</figcaption>
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/DT18_DS_Open_Maneuvers.svg"
+     alt="dyanmic-soaring"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+DT-18 open-loop dynamic soaring trajectory, where an uninhabited aerial vehicle replaces the dynamic soaring pattern flown by the albatrosses. The four dynamic soaring flight phases are high-lighted, with red corresponding to ascent into the wind, yellow to the turn from windward direction to leeward direction, blue to descent with the wind, and purple to the turn from leeward direction to windward direction.
+</figcaption>
 </figure>
-{% endcomment %}
+
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/wave_direction_determination_strategy2.svg"
+     alt="multi-vessel"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Wave direction determination strategy schematic. Three vessels are moving with vessel heading angles \(90^\circ\) apart, and three different wave directions shown relative to the vessels.
+</figcaption>
+</figure>
