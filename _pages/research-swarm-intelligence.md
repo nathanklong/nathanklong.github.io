@@ -22,9 +22,25 @@ The simultaneous control of multiple coordinated robotic agents represents an el
 See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
 
 ### Figures
-{% comment %}
-<figure style="margin: 0 0 var(--space-6) 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/FIGURE.svg" alt="ALT TEXT" style="width: 100%; height: auto; border-radius: var(--radius);">
-<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">Caption.</figcaption>
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/Research_Links_Figure_4.svg"
+     alt="shepherd-taxonomy"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Shepherding mind map. The inner circle is used to categorize the literature as simulation, robotics and artificial intelligence, or a combination of them. Each of these categories is then decomposed into associate sub-categories. A hierarchical tree of shepherding taxonomy is then presented outside the circle, initially split into shepherding guidance or implementation.
+</figcaption>
 </figure>
-{% endcomment %}
+
+<hr style="border: 0; border-top: 1px dashed #666; margin: 0 0 3rem 0;">
+
+<figure markdown="0"
+        style="max-width: 550px; margin: 0 auto 3rem auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/Strombom_Illustration.svg"
+     alt="wave-coords"
+     style="width: 100%; height: auto; border-radius: var(--radius);">
+<figcaption style="font-size: 0.9em; color: var(--text-secondary); margin-top: var(--space-2);">
+Schematic outlining shepherding heuristic, where the circles represents radii of influence, and arrows represent vectors. (a) The shepherd approaches the driving position. (b) The shepherd repels a sheep, which is also attracted to its centre of mass. (c) The sheep repels another sheep, which is also attracted to their centre of mass, while the shepherd moves to the new driving position. (d) The shepherd repels two sheep, which are also both attracted to their centre of mass.
+</figcaption>
+</figure>
