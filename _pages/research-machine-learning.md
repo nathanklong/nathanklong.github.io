@@ -29,7 +29,7 @@ In my current role as a Postdoctoral Researcher in Astrophotonics and Astronomic
 - [Response Component Analysis for Sea State Estimation Using Artificial Neural Networks and Vessel Response Spectral Data (2021)]({{ site.url }}{{ site.baseurl }}/papers/Long2022_-_Response Component Analysis for Sea State Estimation Using Artificial Neural Networks and Vessel Response Spectral Data.pdf)
 - [Multi-Vessel Sea State Estimation Using Artificial Neural Networks and Vessel Response Spectral Data (2021)]({{ site.url }}{{ site.baseurl }}/papers/Long2021_MSc_Thesis_-_Multi-vessel sea state estimation using artificial neural networks and vessel response spectral data.pdf)
 
-See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
+See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography.
 
 ### Figures
 
