@@ -33,7 +33,7 @@ Further, I worked on *Swarm Shepherding* as a swarm-robotics guidance approach w
 - [Regenerative Dynamic Soaring Trajectory Augmentation over Flat Terrains (2019)]({{ site.url }}{{ site.baseurl }}/papers/Long2019_-_Regenerative_Dynamic_Soaring_Trajectory_Augmentation_over_Flat_Terrains.pdf)
 - [Bio-inspired Regenerative Flight Trajectory Optmisation Over Flat Topography (2018)]({{ site.url }}{{ site.baseurl }}/papers/Long2018_-_Bio-inspired_Regenerative_Flight_Trajectory_Optmisation_Over_Flat_Topography.pdf)
 
-See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography
+See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibliography.
 
 ### Figures
 
