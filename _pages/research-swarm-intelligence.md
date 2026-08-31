@@ -24,7 +24,7 @@ See [Publications]({{ site.url }}{{ site.baseurl }}/publications/) for full bibl
 ### Figures
 
 <figure markdown="0"
-        style="max-width: 550px; margin: 0 auto 3rem auto;">
+        style="max-width: 650px; margin: 0 auto 3rem auto;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/Research_Links_Figure_4.svg"
      alt="shepherd-taxonomy"
      style="width: 100%; height: auto; border-radius: var(--radius);">
