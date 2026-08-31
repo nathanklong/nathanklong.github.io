@@ -7,7 +7,11 @@ permalink: /publications/
 
 ## Publications
 
-<input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year...">
+<input type="text"
+       class="pub-search"
+       id="pubSearch"
+       placeholder="Filter by title, author, or year..."
+       autocomplete="off">
 
 <div class="section-card" id="pubList">
 <h3>Preprints</h3>
