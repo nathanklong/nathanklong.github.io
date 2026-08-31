@@ -24,7 +24,7 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/wiley_aqt_graphic_3.svg" class="research-thumb" alt="quantum-satellite">
 <div class="research-body">
 <h4 class="research-title">Quantum Communication</h4>
-<p class="research-desc">Continuous-variable Quantum Communication across turbulent satellite-Earth links.</p>
+<p class="research-desc">Continuous-Variable Quantum Communication across turbulent satellite-Earth links.</p>
 </div>
 </a>
 </div>
