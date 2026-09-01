@@ -50,3 +50,11 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
 // Utilities
 @import "utilities/dark-mode";
 @import "utilities/animations";
+
+
+@media (max-width: 768px) {
+  .fade-in-section {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
