@@ -14,7 +14,7 @@ permalink: /research/swarm-intelligence/
             border-radius: var(--radius);">
 
 ## Swarm Intelligence
-From 2019 to 2021, I worked on swarm shepherding as a bio-inspired swarm robotics guidance approach, as a member of the Trusted Autonomy group at the University of New South Wales, Canberra.
+From 2019 to 2021, I worked on swarm shepherding as a bio-inspired swarm robotics guidance approach, as a member of the Trusted Autonomy group at the University of New South Wales, Canberra, under the guidance of Professor Hussein Abbass.
 
 <hr style="border: 0; border-top: 2px solid #555; margin: 2rem 0;">
 
